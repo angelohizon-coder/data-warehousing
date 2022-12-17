@@ -1,0 +1,43 @@
+Country_name,Regional_indicator,year,Log_GDP_per_capita,Social_support,Healthy_life_expectancy,Freedom_to_make_life_choices,Perceptions_of_corruption,Ladder_score
+Nicaragua,Latin America and Caribbean,2021,8.62,0.864,67.657,0.836,0.664,5.972
+Niger,Sub-Saharan Africa,2021,7.098,0.641,53.78,0.806,0.693,5.074
+Nigeria,Sub-Saharan Africa,2021,8.533,0.74,50.102,0.737,0.878,4.759
+North Macedonia,Central and Eastern Europe,2021,9.693,0.805,65.474,0.751,0.905,5.101
+Norway,Western Europe,2021,11.053,0.954,73.3,0.96,0.27,7.392
+Pakistan,South Asia,2021,8.458,0.651,58.709,0.726,0.787,4.934
+Panama,Latin America and Caribbean,2021,10.35,0.896,69.652,0.872,0.856,6.18
+Paraguay,Latin America and Caribbean,2021,9.448,0.893,65.9,0.876,0.882,5.653
+Peru,Latin America and Caribbean,2021,9.458,0.832,68.25,0.822,0.891,5.84
+Philippines,Southeast Asia,2021,9.076,0.83,62,0.917,0.742,5.88
+Poland,Central and Eastern Europe,2021,10.382,0.898,69.702,0.841,0.735,6.166
+Portugal,Western Europe,2021,10.421,0.879,72.6,0.892,0.887,5.929
+Romania,Central and Eastern Europe,2021,10.284,0.832,67.355,0.845,0.938,6.14
+Russia,Commonwealth of Independent States,2021,10.189,0.903,64.703,0.718,0.845,5.477
+Rwanda,Sub-Saharan Africa,2021,7.676,0.552,61.4,0.897,0.167,3.415
+Senegal,Sub-Saharan Africa,2021,8.118,0.71,59.802,0.695,0.801,5.132
+Serbia,Central and Eastern Europe,2021,9.787,0.873,68.6,0.778,0.835,6.078
+Sierra Leone,Sub-Saharan Africa,2021,7.434,0.63,51.651,0.717,0.866,3.849
+Singapore,Southeast Asia,2021,11.488,0.915,76.953,0.927,0.082,6.377
+Slovakia,Central and Eastern Europe,2021,10.369,0.936,69.201,0.766,0.911,6.331
+Slovenia,Central and Eastern Europe,2021,10.529,0.948,71.4,0.949,0.806,6.461
+South Africa,Sub-Saharan Africa,2021,9.403,0.86,56.904,0.749,0.86,4.956
+South Korea,East Asia,2021,10.651,0.799,73.9,0.672,0.727,5.845
+Spain,Western Europe,2021,10.571,0.932,74.7,0.761,0.745,6.491
+Sri Lanka,South Asia,2021,9.47,0.827,67.299,0.841,0.863,4.325
+Swaziland,Sub-Saharan Africa,2021,9.065,0.77,50.833,0.647,0.708,4.308
+Sweden,Western Europe,2021,10.867,0.934,72.7,0.945,0.237,7.363
+Switzerland,Western Europe,2021,11.117,0.942,74.4,0.919,0.292,7.571
+Tanzania,Sub-Saharan Africa,2021,7.876,0.702,57.999,0.833,0.577,3.623
+Thailand,Southeast Asia,2021,9.805,0.888,67.401,0.884,0.895,5.985
+Togo,Sub-Saharan Africa,2021,7.362,0.569,54.914,0.619,0.772,4.107
+Tunisia,Middle East and North Africa,2021,9.266,0.691,67.201,0.656,0.87,4.596
+Turkey,Middle East and North Africa,2021,10.24,0.822,67.199,0.576,0.776,4.948
+Uganda,Sub-Saharan Africa,2021,7.677,0.781,56.101,0.709,0.855,4.636
+Ukraine,Commonwealth of Independent States,2021,9.436,0.888,64.902,0.724,0.924,4.875
+United Kingdom,Western Europe,2021,10.707,0.934,72.5,0.859,0.459,7.064
+United States,North America and ANZ,2021,11.023,0.92,68.2,0.837,0.698,6.951
+Uruguay,Latin America and Caribbean,2021,9.966,0.925,69.1,0.896,0.59,6.431
+Uzbekistan,Commonwealth of Independent States,2021,8.836,0.918,65.255,0.97,0.515,6.179
+Vietnam,Southeast Asia,2021,8.973,0.85,68.034,0.94,0.796,5.411
+Zambia,Sub-Saharan Africa,2021,8.145,0.708,55.809,0.782,0.823,4.073
+Zimbabwe,Sub-Saharan Africa,2021,7.943,0.75,56.201,0.677,0.821,3.145

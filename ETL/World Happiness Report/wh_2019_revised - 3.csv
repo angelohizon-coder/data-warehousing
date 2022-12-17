@@ -1,0 +1,43 @@
+Country_name,Regional_indicator,year,Log_GDP_per_capita,Social_support,Healthy_life_expectancy,Freedom_to_make_life_choices,Perceptions_of_corruption,Ladder_score
+Nicaragua,Latin America and Caribbean,2019,8.595,0.874,67.8,0.883,0.622,6.113
+Niger,Sub-Saharan Africa,2019,7.106,0.677,54,0.831,0.729,5.004
+Nigeria,Sub-Saharan Africa,2019,8.544,0.734,50.1,0.729,0.873,4.356
+North Macedonia,Central and Eastern Europe,2019,9.711,0.815,65.474,0.725,0.923,5.015
+Norway,Western Europe,2019,11.061,0.942,73.3,0.954,0.271,7.442
+Pakistan,South Asia,2019,8.453,0.617,58.9,0.685,0.776,4.443
+Panama,Latin America and Caribbean,2019,10.356,0.886,69.7,0.883,0.869,6.086
+Paraguay,Latin America and Caribbean,2019,9.448,0.892,65.9,0.876,0.882,5.653
+Peru,Latin America and Caribbean,2019,9.461,0.809,68.4,0.815,0.874,5.999
+Philippines,Southeast Asia,2019,9.095,0.845,62,0.91,0.748,6.268
+Poland,Central and Eastern Europe,2019,10.407,0.878,69.7,0.883,0.696,6.242
+Portugal,Western Europe,2019,10.457,0.876,72.6,0.882,0.915,6.095
+Romania,Central and Eastern Europe,2019,10.306,0.842,67.5,0.848,0.954,6.13
+Russia,Commonwealth of Independent States,2019,10.205,0.91,64.7,0.715,0.848,5.441
+Rwanda,Sub-Saharan Africa,2019,7.708,0.489,61.7,0.869,0.168,3.268
+Senegal,Sub-Saharan Africa,2019,8.13,0.688,60,0.759,0.796,5.489
+Serbia,Central and Eastern Europe,2019,9.808,0.903,68.6,0.753,0.813,6.241
+Sierra Leone,Sub-Saharan Africa,2019,7.449,0.611,52.4,0.718,0.874,3.447
+Singapore,Southeast Asia,2019,11.486,0.925,77.1,0.938,0.07,6.378
+Slovakia,Central and Eastern Europe,2019,10.398,0.933,69.2,0.771,0.926,6.243
+Slovenia,Central and Eastern Europe,2019,10.563,0.949,71.4,0.945,0.785,6.665
+South Africa,Sub-Saharan Africa,2019,9.432,0.848,56.9,0.738,0.82,5.035
+South Korea,East Asia,2019,10.661,0.783,73.9,0.706,0.718,5.903
+Spain,Western Europe,2019,10.618,0.949,74.7,0.778,0.73,6.457
+Sri Lanka,South Asia,2019,9.479,0.815,67.4,0.824,0.863,4.213
+Swaziland,Sub-Saharan Africa,2019,9.07,0.759,51.27,0.597,0.724,4.396
+Sweden,Western Europe,2019,10.882,0.934,72.7,0.942,0.25,7.398
+Switzerland,Western Europe,2019,11.136,0.949,74.4,0.913,0.294,7.694
+Tanzania,Sub-Saharan Africa,2019,7.886,0.687,58,0.85,0.589,3.64
+Thailand,Southeast Asia,2019,9.824,0.903,67.4,0.898,0.877,6.022
+Togo,Sub-Saharan Africa,2019,7.375,0.539,55.1,0.617,0.737,4.179
+Tunisia,Middle East and North Africa,2019,9.283,0.61,67.2,0.659,0.889,4.315
+Turkey,Middle East and North Africa,2019,10.246,0.792,67.2,0.631,0.76,4.872
+Uganda,Sub-Saharan Africa,2019,7.688,0.805,56.1,0.704,0.826,4.948
+Ukraine,Commonwealth of Independent States,2019,9.458,0.883,64.9,0.715,0.885,4.702
+United Kingdom,Western Europe,2019,10.751,0.943,72.5,0.854,0.485,7.157
+United States,North America and ANZ,2019,11.043,0.917,68.2,0.836,0.707,6.944
+Uruguay,Latin America and Caribbean,2019,9.979,0.933,69.1,0.903,0.599,6.6
+Uzbekistan,Commonwealth of Independent States,2019,8.853,0.915,65.4,0.97,0.511,6.154
+Vietnam,Southeast Asia,2019,8.992,0.848,68.1,0.952,0.788,5.467
+Zambia,Sub-Saharan Africa,2019,8.155,0.638,55.8,0.811,0.832,3.307
+Zimbabwe,Sub-Saharan Africa,2019,7.95,0.759,56.2,0.632,0.831,2.694

@@ -1,0 +1,43 @@
+Country_name,Regional_indicator,year,Log_GDP_per_capita,Social_support,Healthy_life_expectancy,Freedom_to_make_life_choices,Perceptions_of_corruption,Ladder_score
+Greece,Western Europe,2019,10.319,0.891,72.6,0.614,0.848,5.952
+Guatemala,Latin America and Caribbean,2019,9.064,0.774,65.1,0.901,0.773,6.262
+Guinea,Sub-Saharan Africa,2019,7.849,0.655,55.5,0.691,0.756,4.768
+Honduras,Latin America and Caribbean,2019,8.653,0.797,67.4,0.846,0.815,5.93
+Hungary,Central and Eastern Europe,2019,10.393,0.947,68,0.798,0.884,6
+India,South Asia,2019,8.818,0.561,60.5,0.876,0.752,3.249
+Indonesia,Southeast Asia,2019,9.377,0.802,62.3,0.866,0.861,5.347
+Ireland,Western Europe,2019,11.371,0.944,72.4,0.892,0.373,7.255
+Israel,Middle East and North Africa,2019,10.601,0.946,73.5,0.834,0.743,7.332
+Italy,Western Europe,2019,10.655,0.838,73.8,0.709,0.866,6.445
+Ivory Coast,Sub-Saharan Africa,2019,8.564,0.679,50.1,0.736,0.799,5.392
+Jamaica,Latin America and Caribbean,2019,9.186,0.878,67.5,0.891,0.885,6.309
+Japan,East Asia,2019,10.632,0.878,75.1,0.806,0.617,5.908
+Kazakhstan,Commonwealth of Independent States,2019,10.179,0.951,65.2,0.852,0.708,6.272
+Kenya,Sub-Saharan Africa,2019,8.373,0.676,60.7,0.818,0.794,4.619
+Kyrgyzstan,Commonwealth of Independent States,2019,8.567,0.877,64.4,0.92,0.885,5.685
+Laos,Southeast Asia,2019,8.965,0.729,59.1,0.906,0.62,5.197
+Latvia,Central and Eastern Europe,2019,10.336,0.936,67.1,0.698,0.789,5.97
+Lebanon,Middle East and North Africa,2019,9.597,0.866,67.6,0.447,0.89,4.024
+Lesotho,Sub-Saharan Africa,2019,7.926,0.79,48.7,0.716,0.915,3.512
+Liberia,Sub-Saharan Africa,2019,7.264,0.712,56.9,0.706,0.828,5.121
+Libya,Middle East and North Africa,2019,9.627,0.827,62.3,0.762,0.686,5.33
+Lithuania,Central and Eastern Europe,2019,10.518,0.918,67.9,0.78,0.783,6.064
+Luxembourg,Western Europe,2019,11.648,0.912,72.6,0.93,0.39,7.404
+Madagascar,Sub-Saharan Africa,2019,7.406,0.701,59.5,0.55,0.72,4.339
+Malawi,Sub-Saharan Africa,2019,6.966,0.549,58.3,0.765,0.68,3.869
+Malaysia,Southeast Asia,2019,10.252,0.842,67.2,0.916,0.782,5.428
+Mali,Sub-Saharan Africa,2019,7.752,0.755,52.2,0.67,0.846,4.988
+Malta,Western Europe,2019,10.677,0.922,72.2,0.924,0.689,6.733
+Mauritania,Sub-Saharan Africa,2019,8.556,0.798,57.3,0.628,0.743,4.153
+Mauritius,Sub-Saharan Africa,2019,10.043,0.913,66.7,0.893,0.81,6.241
+Mexico,Latin America and Caribbean,2019,9.891,0.852,68.6,0.903,0.809,6.432
+Moldova,Commonwealth of Independent States,2019,9.475,0.809,65.7,0.784,0.884,5.803
+Mongolia,East Asia,2019,9.418,0.946,62.5,0.711,0.873,5.563
+Montenegro,Central and Eastern Europe,2019,9.97,0.832,68.7,0.694,0.82,5.386
+Morocco,Middle East and North Africa,2019,8.925,0.535,66.2,0.757,0.757,5.057
+Mozambique,Sub-Saharan Africa,2019,7.155,0.742,55.2,0.87,0.682,4.932
+Myanmar,Southeast Asia,2019,8.545,0.763,59.3,0.899,0.682,4.434
+Namibia,Sub-Saharan Africa,2019,9.173,0.845,56.8,0.739,0.879,4.436
+Nepal,South Asia,2019,8.136,0.772,64.6,0.79,0.712,5.449
+Netherlands,Western Europe,2019,10.953,0.941,72.4,0.886,0.36,7.425
+New Zealand,North America and ANZ,2019,10.666,0.939,73.4,0.912,0.234,7.205

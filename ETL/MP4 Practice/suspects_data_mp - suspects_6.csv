@@ -1,0 +1,12 @@
+suspect_id,name,gender,age,height,hair_color,eye_color,facial_hair,tattoos,galsses,scars,feet_size,status
+490,Dan Livingston,Male,48,Medium,Blonde,Green,Yes,No,Yes,Yes,Small,Guilty
+491,Lynn Lopez,Female,85,Short,Black,Blue,No,No,Yes,Yes,Medium,Guilty
+492,Philip Mcknight,Male,51,Short,Red,Green,Yes,Yes,Yes,No,Large,Guilty
+493,Lawrie Hammond,Female,31,Medium,Black,Brown,No,Yes,No,No,Large,Guilty
+494,Raphael Castaneda,Female,73,Tall,Blonde,Blue,Yes,Yes,No,Yes,Medium,Guilty
+495,Palmer Ray,Female,79,Tall,Brown,Blue,Yes,Yes,Yes,No,Small,Guilty
+496,Oren Quinn,Male,76,Short,Blonde,Green,No,Yes,No,Yes,Small,Guilty
+497,Alvin Park,Female,48,Medium,Red,Blue,No,No,No,No,Medium,Guilty
+498,Clark Moses,Female,43,Short,Brown,Blue,No,Yes,Yes,No,Large,Guilty
+499,Graham Cain,Male,40,Tall,Red,Blue,Yes,No,Yes,Yes,Large,Guilty
+500,Stacy Bennett,Female,49,Tall,Red,Green,No,No,Yes,No,Medium,Guilty

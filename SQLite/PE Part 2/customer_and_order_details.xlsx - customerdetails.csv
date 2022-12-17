@@ -1,0 +1,100 @@
+ID no,Store Number,Payment_Type,Name,City,State,Country
+101,100,Mastercard,carolina,Basildon,England,United Kingdom
+102,103,Visa,Betina,Parkville,MO,United States
+1025,108,Mastercard,Federica e Andrea,Astoria,OR,United States
+1027,103,Visa,Gouya,Echuca,Victoria,Australia
+1030,100,Visa,Gerd W,Cahaba Heights,AL,United States
+1043,100,Visa,LAURENCE,Mickleton,NJ,United States
+1056,106,Mastercard,Fleur,Peoria,IL,United States
+1060,105,Mastercard,adam,Martin,TN,United States
+1074,107,Mastercard,Renee Elisabeth,Tel Aviv,Tel Aviv,Israel
+1106,103,Visa,Aidan,Chatou,Ile-de-France,France
+1118,102,Diners,Stacy,New York,NY,United States
+1123,100,Amex,Heidi,Eindhoven,Noord-Brabant,Netherlands
+1129,107,Mastercard,Sean,Shavano Park,TX,United States
+1135,106,Visa,Georgia,Eagle,ID,United States
+1136,104,Visa,Richard,Riverside,NJ,United States
+1138,105,Diners,Leanne,Julianstown,Meath,Ireland
+1139,108,Visa,Janet,Ottawa,Ontario,Canada
+1143,103,Diners,barbara,Hyderabad,Andhra Pradesh,India
+1182,107,Visa,Sabine,London,England,United Kingdom
+1211,109,Diners,Hani,Salt Lake City,UT,United States
+1211,109,Visa,Jeremy,Manchester,England,United Kingdom
+1217,101,Diners,Janis,Ballynora,Cork,Ireland
+1228,104,Mastercard,Nicola,Roodepoort,Gauteng,South Africa
+1228,104,Visa,asuman,Chula Vista,CA,United States
+1228,104,Mastercard,Lena,Kuopio,Ita-Suomen Laani,Finland
+1231,107,Visa,Lisa,Sugar Land,TX,United States
+1238,100,Diners,Bryan Kerrene,New York,NY,United States
+1250,107,Visa,chris,London,England,United Kingdom
+1250,107,Visa,Maxine,Morton,IL,United States
+1253,102,Visa,Family,Los Gatos,CA,United States
+1259,102,Mastercard,Katherine,New York,NY,United States
+1280,105,Mastercard,Linda,Miami,FL,United States
+129,101,Mastercard,SYLVIA,Vesenaz,Geneve,Switzerland
+1350,109,Diners,Sheila,Brooklyn,NY,United States
+1377,105,Mastercard,Stephanie,Badhoevedorp,Noord-Holland,Netherlands
+1397,106,Amex,Kelly,Reston,VA,United States
+1402,101,Visa,James,Burpengary,Queensland,Australia
+1417,109,Visa,jennifer,Phoenix,AZ,United States
+1433,109,Mastercard,Anneli,Houston,TX,United States
+1450,100,Amex,Ritz,Pittsfield,VT,United States
+1463,102,Amex,Sylvia,Pittsfield,VT,United States
+1463,102,Mastercard,Marie,Ball Ground,GA,United States
+1471,108,Visa,Mehmet Fatih,Helsingor,Frederiksborg,Denmark
+1473,106,Visa,Anabela,Flossmoor,IL,United States
+1479,108,Amex,Nicole,Houston,TX,United States
+1487,100,Visa,Christiane,Delray Beach,FL,United States
+1488,104,Mastercard,Sari,Newbury,England,United Kingdom
+1494,109,Mastercard,simone,Kobenhavn,Kobenhavn,Denmark
+1497,106,Amex,Vanessa,Sandy Springs,GA,United States
+1499,103,Diners,Anupam,Kinsaley,Dublin,Ireland
+1503,105,Visa,Karina,Fort Lauderdale,FL,United States
+1509,101,Mastercard,Frank,Melbourne,Victoria,Australia
+1511,100,Visa,Angela,Ankeny,IA,United States
+1520,101,Visa,Darren,Pittsboro,NC,United States
+1526,109,Mastercard,Nikki,New Rochelle,NY,United States
+1531,105,Visa,chris,Gold Coast,Queensland,Australia
+1537,101,Visa,Stephanie,Brussels,Brussels (Bruxelles),Belgium
+1538,107,Visa,Anushka,Maple Ridge District Municipality,British Columbia,Canada
+1550,103,Mastercard,June,Beachwood,OH,United States
+1550,103,Diners,Baybars,Prince Albert,Saskatchewan,Canada
+1561,101,Mastercard,Bonnie,Saltsjobaden,Stockholm,Sweden
+1590,107,Visa,Cindy,Kemble,England,United Kingdom
+1591,100,Mastercard,chrissy,W Lebanon,NH,United States
+1602,104,Mastercard,Tamar,Headley,England,United Kingdom
+1610,107,Mastercard,Deirdre,Lausanne,Vaud,Switzerland
+1625,105,Mastercard,Bernadett,Southampton,England,United Kingdom
+1630,101,Visa,Dottie,Woodsboro,MD,United States
+1648,108,Visa,Stefan,Stavanger,Rogaland,Norway
+1658,100,Visa,Gina,Red Deer,Alberta,Canada
+1660,106,Diners,Lynne,Memphis,TN,United States
+1668,104,Mastercard,Tammy,Morges,Vaud,Switzerland
+1687,101,Visa,Kim,Calgary,Alberta,Canada
+1689,104,Visa,Bruce,Belleville,Ontario,Canada
+1699,107,Visa,Rosa Maria,Cincinnati,OH,United States
+1701,109,Visa,Lydia,Comox,British Columbia,Canada
+1723,104,Mastercard,Anneli,Houston,TX,United States
+1727,103,Amex,Ritz,Pittsfield,VT,United States
+1732,105,Amex,Sylvia,Pittsfield,VT,United States
+1745,105,Mastercard,Marie,Ball Ground,GA,United States
+1747,109,Visa,Mehmet Fatih,Helsingor,Frederiksborg,Denmark
+1767,105,Visa,Anabela,Flossmoor,IL,United States
+1773,109,Amex,Nicole,Houston,TX,United States
+1777,100,Visa,Christiane,Delray Beach,FL,United States
+1781,105,Mastercard,Sari,Newbury,England,United Kingdom
+1790,109,Mastercard,simone,Kobenhavn,Kobenhavn,Denmark
+180,100,Amex,Vanessa,Sandy Springs,GA,United States
+180,100,Diners,Anupam,Kinsaley,Dublin,Ireland
+1802,105,Visa,Karina,Fort Lauderdale,FL,United States
+1816,108,Mastercard,Frank,Melbourne,Victoria,Australia
+1821,100,Visa,Angela,Ankeny,IA,United States
+1821,100,Visa,Darren,Pittsboro,NC,United States
+1824,101,Mastercard,Nikki,New Rochelle,NY,United States
+1824,101,Visa,chris,Gold Coast,Queensland,Australia
+1836,106,Visa,Stephanie,Brussels,Brussels (Bruxelles),Belgium
+1836,106,Visa,Anushka,Maple Ridge District Municipality,British Columbia,Canada
+1849,106,Mastercard,June,Beachwood,OH,United States
+1850,106,Diners,Baybars,Prince Albert,Saskatchewan,Canada
+1858,107,Mastercard,Bonnie,Saltsjobaden,Stockholm,Sweden
+1863,101,Visa,Cindy,Kemble,England,United Kingdom

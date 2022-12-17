@@ -1,0 +1,43 @@
+Country_name,Regional_indicator,year,Log_GDP_per_capita,Social_support,Healthy_life_expectancy,Freedom_to_make_life_choices,Perceptions_of_corruption,Ladder_score
+Afghanistan,South Asia,2019,7.697,0.42,52.4,0.394,0.924,2.375
+Albania,Central and Eastern Europe,2019,9.544,0.686,69,0.777,0.914,4.995
+Algeria,Middle East and North Africa,2019,9.337,0.803,66.1,0.385,0.741,4.745
+Argentina,Latin America and Caribbean,2019,10,0.896,69,0.817,0.83,6.086
+Armenia,Commonwealth of Independent States,2019,9.522,0.782,67.2,0.844,0.583,5.488
+Australia,North America and ANZ,2019,10.815,0.943,73.9,0.918,0.43,7.234
+Austria,Western Europe,2019,10.939,0.964,73.3,0.903,0.457,7.195
+Azerbaijan,Commonwealth of Independent States,2019,9.575,0.887,65.8,0.854,0.457,5.173
+Bangladesh,South Asia,2019,8.467,0.673,64.8,0.902,0.656,5.114
+Belarus,Commonwealth of Independent States,2019,9.86,0.917,66.4,0.657,0.546,5.821
+Belgium,Western Europe,2019,10.853,0.884,72.2,0.776,0.672,6.772
+Benin,Sub-Saharan Africa,2019,8.098,0.442,54.7,0.77,0.698,4.976
+Bolivia,Latin America and Caribbean,2019,9.074,0.784,63.9,0.881,0.857,5.674
+Bosnia and Herzegovina,Central and Eastern Europe,2019,9.609,0.873,68.1,0.722,0.963,6.016
+Botswana,Sub-Saharan Africa,2019,9.785,0.774,59.6,0.833,0.792,3.471
+Brazil,Latin America and Caribbean,2019,9.592,0.899,66.6,0.83,0.762,6.451
+Bulgaria,Central and Eastern Europe,2019,10.047,0.948,67,0.822,0.943,5.108
+Burkina Faso,Sub-Saharan Africa,2019,7.691,0.683,54.4,0.678,0.729,4.741
+Cambodia,Southeast Asia,2019,8.387,0.759,62,0.957,0.828,4.998
+Cameroon,Sub-Saharan Africa,2019,8.203,0.711,53.5,0.712,0.817,4.937
+Canada,North America and ANZ,2019,10.8,0.925,73.8,0.912,0.436,7.109
+Chad,Sub-Saharan Africa,2019,7.365,0.64,48.7,0.537,0.832,4.251
+Chile,Latin America and Caribbean,2019,10.095,0.869,70,0.659,0.86,5.942
+Colombia,Latin America and Caribbean,2019,9.598,0.873,68,0.822,0.854,6.35
+Comoros,Sub-Saharan Africa,2019,8.033,0.632,57.5,0.538,0.762,4.609
+Congo (Brazzaville),Sub-Saharan Africa,2019,8.101,0.625,58.5,0.686,0.741,5.213
+Costa Rica,Latin America and Caribbean,2019,9.885,0.906,71.5,0.927,0.836,6.998
+Croatia,Central and Eastern Europe,2019,10.258,0.936,70.8,0.739,0.932,5.626
+Cyprus,Western Europe,2019,10.585,0.776,73.9,0.74,0.865,6.137
+Denmark,Western Europe,2019,10.954,0.958,72.7,0.963,0.174,7.693
+Dominican Republic,Latin America and Caribbean,2019,9.821,0.884,66.1,0.877,0.746,6.004
+Ecuador,Latin America and Caribbean,2019,9.339,0.808,68.8,0.83,0.839,5.809
+El Salvador,Latin America and Caribbean,2019,9.08,0.764,66.4,0.877,0.682,6.455
+Estonia,Central and Eastern Europe,2019,10.511,0.934,68.8,0.887,0.576,6.035
+Ethiopia,Sub-Saharan Africa,2019,7.705,0.748,59,0.754,0.732,4.1
+Finland,Western Europe,2019,10.792,0.937,72,0.948,0.195,7.78
+France,Western Europe,2019,10.74,0.958,74,0.827,0.568,6.69
+Gabon,Sub-Saharan Africa,2019,9.607,0.763,60.2,0.736,0.846,4.914
+Gambia,Sub-Saharan Africa,2019,7.699,0.694,55.3,0.677,0.798,5.164
+Georgia,Commonwealth of Independent States,2019,9.617,0.675,64.3,0.811,0.647,4.892
+Germany,Western Europe,2019,10.893,0.886,72.5,0.885,0.462,7.035
+Ghana,Sub-Saharan Africa,2019,8.596,0.746,57.6,0.787,0.857,4.967

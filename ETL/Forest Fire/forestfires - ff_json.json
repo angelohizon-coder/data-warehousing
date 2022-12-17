@@ -1,0 +1,34 @@
+[
+  {
+    "data_entry": 516,
+    "xx": 1,
+    "yy": 4,
+    "month": "aug",
+    "day": "sat",
+    "ffmc": 94.4,
+    "dmc": 146,
+    "dc": 614.7,
+    "isi": 11.3,
+    "temp": 25.6,
+    "rh": 42,
+    "wind": 4,
+    "rain": 0,
+    "area": 0
+  },
+  {
+    "data_entry": 517,
+    "xx": 6,
+    "yy": 3,
+    "month": "nov",
+    "day": "tue",
+    "ffmc": 79.5,
+    "dmc": 3,
+    "dc": 106.7,
+    "isi": 1.1,
+    "temp": 11.8,
+    "rh": 31,
+    "wind": 4.5,
+    "rain": 0,
+    "area": 0
+  }
+]

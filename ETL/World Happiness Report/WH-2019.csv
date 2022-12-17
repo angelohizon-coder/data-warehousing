@@ -1,0 +1,127 @@
+index,Country_name,Regional_indicator,year,Log_GDP_per_capita,Social_support,Healthy_life_expectancy,Freedom_to_make_life_choices,Perceptions_of_corruption,Ladder_score
+0,Afghanistan,South Asia,2019,7.697,0.42,52.4,0.394,0.924,2.375
+1,Albania,Central and Eastern Europe,2019,9.544,0.686,69.0,0.777,0.914,4.995
+2,Algeria,Middle East and North Africa,2019,9.337,0.803,66.1,0.385,0.741,4.745
+3,Argentina,Latin America and Caribbean,2019,10.0,0.896,69.0,0.817,0.83,6.086
+4,Armenia,Commonwealth of Independent States,2019,9.522,0.782,67.2,0.844,0.583,5.488
+5,Australia,North America and ANZ,2019,10.815,0.943,73.9,0.918,0.43,7.234
+6,Austria,Western Europe,2019,10.939,0.964,73.3,0.903,0.457,7.195
+7,Azerbaijan,Commonwealth of Independent States,2019,9.575,0.887,65.8,0.854,0.457,5.173
+8,Bangladesh,South Asia,2019,8.467,0.673,64.8,0.902,0.656,5.114
+9,Belarus,Commonwealth of Independent States,2019,9.86,0.917,66.4,0.657,0.546,5.821
+10,Belgium,Western Europe,2019,10.853,0.884,72.2,0.776,0.672,6.772
+11,Benin,Sub-Saharan Africa,2019,8.098,0.442,54.7,0.77,0.698,4.976
+12,Bolivia,Latin America and Caribbean,2019,9.074,0.784,63.9,0.881,0.857,5.674
+13,Bosnia and Herzegovina,Central and Eastern Europe,2019,9.609,0.873,68.1,0.722,0.963,6.016
+14,Botswana,Sub-Saharan Africa,2019,9.785,0.774,59.6,0.833,0.792,3.471
+15,Brazil,Latin America and Caribbean,2019,9.592,0.899,66.6,0.83,0.762,6.451
+16,Bulgaria,Central and Eastern Europe,2019,10.047,0.948,67.0,0.822,0.943,5.108
+17,Burkina Faso,Sub-Saharan Africa,2019,7.691,0.683,54.4,0.678,0.729,4.741
+18,Cambodia,Southeast Asia,2019,8.387,0.759,62.0,0.957,0.828,4.998
+19,Cameroon,Sub-Saharan Africa,2019,8.203,0.711,53.5,0.712,0.817,4.937
+20,Canada,North America and ANZ,2019,10.8,0.925,73.8,0.912,0.436,7.109
+21,Chad,Sub-Saharan Africa,2019,7.365,0.64,48.7,0.537,0.832,4.251
+22,Chile,Latin America and Caribbean,2019,10.095,0.869,70.0,0.659,0.86,5.942
+23,Colombia,Latin America and Caribbean,2019,9.598,0.873,68.0,0.822,0.854,6.35
+24,Comoros,Sub-Saharan Africa,2019,8.033,0.632,57.5,0.538,0.762,4.609
+25,Congo (Brazzaville),Sub-Saharan Africa,2019,8.101,0.625,58.5,0.686,0.741,5.213
+26,Costa Rica,Latin America and Caribbean,2019,9.885,0.906,71.5,0.927,0.836,6.998
+27,Croatia,Central and Eastern Europe,2019,10.258,0.936,70.8,0.739,0.932,5.626
+28,Cyprus,Western Europe,2019,10.585,0.776,73.9,0.74,0.865,6.137
+29,Denmark,Western Europe,2019,10.954,0.958,72.7,0.963,0.174,7.693
+30,Dominican Republic,Latin America and Caribbean,2019,9.821,0.884,66.1,0.877,0.746,6.004
+31,Ecuador,Latin America and Caribbean,2019,9.339,0.808,68.8,0.83,0.839,5.809
+32,El Salvador,Latin America and Caribbean,2019,9.08,0.764,66.4,0.877,0.682,6.455
+33,Estonia,Central and Eastern Europe,2019,10.511,0.934,68.8,0.887,0.576,6.035
+34,Ethiopia,Sub-Saharan Africa,2019,7.705,0.748,59.0,0.754,0.732,4.1
+35,Finland,Western Europe,2019,10.792,0.937,72.0,0.948,0.195,7.78
+36,France,Western Europe,2019,10.74,0.958,74.0,0.827,0.568,6.69
+37,Gabon,Sub-Saharan Africa,2019,9.607,0.763,60.2,0.736,0.846,4.914
+38,Gambia,Sub-Saharan Africa,2019,7.699,0.694,55.3,0.677,0.798,5.164
+39,Georgia,Commonwealth of Independent States,2019,9.617,0.675,64.3,0.811,0.647,4.892
+40,Germany,Western Europe,2019,10.893,0.886,72.5,0.885,0.462,7.035
+41,Ghana,Sub-Saharan Africa,2019,8.596,0.746,57.6,0.787,0.857,4.967
+0,Greece,Western Europe,2019,10.319,0.891,72.6,0.614,0.848,5.952
+1,Guatemala,Latin America and Caribbean,2019,9.064,0.774,65.1,0.901,0.773,6.262
+2,Guinea,Sub-Saharan Africa,2019,7.849,0.655,55.5,0.691,0.756,4.768
+3,Honduras,Latin America and Caribbean,2019,8.653,0.797,67.4,0.846,0.815,5.93
+4,Hungary,Central and Eastern Europe,2019,10.393,0.947,68.0,0.798,0.884,6.0
+5,India,South Asia,2019,8.818,0.561,60.5,0.876,0.752,3.249
+6,Indonesia,Southeast Asia,2019,9.377,0.802,62.3,0.866,0.861,5.347
+7,Ireland,Western Europe,2019,11.371,0.944,72.4,0.892,0.373,7.255
+8,Israel,Middle East and North Africa,2019,10.601,0.946,73.5,0.834,0.743,7.332
+9,Italy,Western Europe,2019,10.655,0.838,73.8,0.709,0.866,6.445
+10,Ivory Coast,Sub-Saharan Africa,2019,8.564,0.679,50.1,0.736,0.799,5.392
+11,Jamaica,Latin America and Caribbean,2019,9.186,0.878,67.5,0.891,0.885,6.309
+12,Japan,East Asia,2019,10.632,0.878,75.1,0.806,0.617,5.908
+13,Kazakhstan,Commonwealth of Independent States,2019,10.179,0.951,65.2,0.852,0.708,6.272
+14,Kenya,Sub-Saharan Africa,2019,8.373,0.676,60.7,0.818,0.794,4.619
+15,Kyrgyzstan,Commonwealth of Independent States,2019,8.567,0.877,64.4,0.92,0.885,5.685
+16,Laos,Southeast Asia,2019,8.965,0.729,59.1,0.906,0.62,5.197
+17,Latvia,Central and Eastern Europe,2019,10.336,0.936,67.1,0.698,0.789,5.97
+18,Lebanon,Middle East and North Africa,2019,9.597,0.866,67.6,0.447,0.89,4.024
+19,Lesotho,Sub-Saharan Africa,2019,7.926,0.79,48.7,0.716,0.915,3.512
+20,Liberia,Sub-Saharan Africa,2019,7.264,0.712,56.9,0.706,0.828,5.121
+21,Libya,Middle East and North Africa,2019,9.627,0.827,62.3,0.762,0.686,5.33
+22,Lithuania,Central and Eastern Europe,2019,10.518,0.918,67.9,0.78,0.783,6.064
+23,Luxembourg,Western Europe,2019,11.648,0.912,72.6,0.93,0.39,7.404
+24,Madagascar,Sub-Saharan Africa,2019,7.406,0.701,59.5,0.55,0.72,4.339
+25,Malawi,Sub-Saharan Africa,2019,6.966,0.549,58.3,0.765,0.68,3.869
+26,Malaysia,Southeast Asia,2019,10.252,0.842,67.2,0.916,0.782,5.428
+27,Mali,Sub-Saharan Africa,2019,7.752,0.755,52.2,0.67,0.846,4.988
+28,Malta,Western Europe,2019,10.677,0.922,72.2,0.924,0.689,6.733
+29,Mauritania,Sub-Saharan Africa,2019,8.556,0.798,57.3,0.628,0.743,4.153
+30,Mauritius,Sub-Saharan Africa,2019,10.043,0.913,66.7,0.893,0.81,6.241
+31,Mexico,Latin America and Caribbean,2019,9.891,0.852,68.6,0.903,0.809,6.432
+32,Moldova,Commonwealth of Independent States,2019,9.475,0.809,65.7,0.784,0.884,5.803
+33,Mongolia,East Asia,2019,9.418,0.946,62.5,0.711,0.873,5.563
+34,Montenegro,Central and Eastern Europe,2019,9.97,0.832,68.7,0.694,0.82,5.386
+35,Morocco,Middle East and North Africa,2019,8.925,0.535,66.2,0.757,0.757,5.057
+36,Mozambique,Sub-Saharan Africa,2019,7.155,0.742,55.2,0.87,0.682,4.932
+37,Myanmar,Southeast Asia,2019,8.545,0.763,59.3,0.899,0.682,4.434
+38,Namibia,Sub-Saharan Africa,2019,9.173,0.845,56.8,0.739,0.879,4.436
+39,Nepal,South Asia,2019,8.136,0.772,64.6,0.79,0.712,5.449
+40,Netherlands,Western Europe,2019,10.953,0.941,72.4,0.886,0.36,7.425
+41,New Zealand,North America and ANZ,2019,10.666,0.939,73.4,0.912,0.234,7.205
+0,Nicaragua,Latin America and Caribbean,2019,8.595,0.874,67.8,0.883,0.622,6.113
+1,Niger,Sub-Saharan Africa,2019,7.106,0.677,54.0,0.831,0.729,5.004
+2,Nigeria,Sub-Saharan Africa,2019,8.544,0.734,50.1,0.729,0.873,4.356
+3,North Macedonia,Central and Eastern Europe,2019,9.711,0.815,65.474,0.725,0.923,5.015
+4,Norway,Western Europe,2019,11.061,0.942,73.3,0.954,0.271,7.442
+5,Pakistan,South Asia,2019,8.453,0.617,58.9,0.685,0.776,4.443
+6,Panama,Latin America and Caribbean,2019,10.356,0.886,69.7,0.883,0.869,6.086
+7,Paraguay,Latin America and Caribbean,2019,9.448,0.892,65.9,0.876,0.882,5.653
+8,Peru,Latin America and Caribbean,2019,9.461,0.809,68.4,0.815,0.874,5.999
+9,Philippines,Southeast Asia,2019,9.095,0.845,62.0,0.91,0.748,6.268
+10,Poland,Central and Eastern Europe,2019,10.407,0.878,69.7,0.883,0.696,6.242
+11,Portugal,Western Europe,2019,10.457,0.876,72.6,0.882,0.915,6.095
+12,Romania,Central and Eastern Europe,2019,10.306,0.842,67.5,0.848,0.954,6.13
+13,Russia,Commonwealth of Independent States,2019,10.205,0.91,64.7,0.715,0.848,5.441
+14,Rwanda,Sub-Saharan Africa,2019,7.708,0.489,61.7,0.869,0.168,3.268
+15,Senegal,Sub-Saharan Africa,2019,8.13,0.688,60.0,0.759,0.796,5.489
+16,Serbia,Central and Eastern Europe,2019,9.808,0.903,68.6,0.753,0.813,6.241
+17,Sierra Leone,Sub-Saharan Africa,2019,7.449,0.611,52.4,0.718,0.874,3.447
+18,Singapore,Southeast Asia,2019,11.486,0.925,77.1,0.938,0.07,6.378
+19,Slovakia,Central and Eastern Europe,2019,10.398,0.933,69.2,0.771,0.926,6.243
+20,Slovenia,Central and Eastern Europe,2019,10.563,0.949,71.4,0.945,0.785,6.665
+21,South Africa,Sub-Saharan Africa,2019,9.432,0.848,56.9,0.738,0.82,5.035
+22,South Korea,East Asia,2019,10.661,0.783,73.9,0.706,0.718,5.903
+23,Spain,Western Europe,2019,10.618,0.949,74.7,0.778,0.73,6.457
+24,Sri Lanka,South Asia,2019,9.479,0.815,67.4,0.824,0.863,4.213
+25,Swaziland,Sub-Saharan Africa,2019,9.07,0.759,51.27,0.597,0.724,4.396
+26,Sweden,Western Europe,2019,10.882,0.934,72.7,0.942,0.25,7.398
+27,Switzerland,Western Europe,2019,11.136,0.949,74.4,0.913,0.294,7.694
+28,Tanzania,Sub-Saharan Africa,2019,7.886,0.687,58.0,0.85,0.589,3.64
+29,Thailand,Southeast Asia,2019,9.824,0.903,67.4,0.898,0.877,6.022
+30,Togo,Sub-Saharan Africa,2019,7.375,0.539,55.1,0.617,0.737,4.179
+31,Tunisia,Middle East and North Africa,2019,9.283,0.61,67.2,0.659,0.889,4.315
+32,Turkey,Middle East and North Africa,2019,10.246,0.792,67.2,0.631,0.76,4.872
+33,Uganda,Sub-Saharan Africa,2019,7.688,0.805,56.1,0.704,0.826,4.948
+34,Ukraine,Commonwealth of Independent States,2019,9.458,0.883,64.9,0.715,0.885,4.702
+35,United Kingdom,Western Europe,2019,10.751,0.943,72.5,0.854,0.485,7.157
+36,United States,North America and ANZ,2019,11.043,0.917,68.2,0.836,0.707,6.944
+37,Uruguay,Latin America and Caribbean,2019,9.979,0.933,69.1,0.903,0.599,6.6
+38,Uzbekistan,Commonwealth of Independent States,2019,8.853,0.915,65.4,0.97,0.511,6.154
+39,Vietnam,Southeast Asia,2019,8.992,0.848,68.1,0.952,0.788,5.467
+40,Zambia,Sub-Saharan Africa,2019,8.155,0.638,55.8,0.811,0.832,3.307
+41,Zimbabwe,Sub-Saharan Africa,2019,7.95,0.759,56.2,0.632,0.831,2.694

@@ -1,0 +1,9 @@
+
+
+table1 <- read.csv('C:/Users/Angelo/Documents/SQLite/Datawarehouse_3CSC/World Happiness Report/table1.csv')
+table1
+
+pred_model <- lm(table1$Ladder.score ~ table1$Logged.GDP.per.capita + table1$Social.support + table1$Healthy.life.expectancy + table1$Freedom.to.make.life.choices + table1$Generosity + table1$Perceptions.of.corruption)
+summary(pred_model)
+
+-2.23722 + table1.Logged_GDP_per_capita*0.27953 + table1.Social_support*2.47621 + table1.Healthy_life_expectancy*0.03031 + table1.Freedom_to_make_life_choices*2.01046 + table1.Generosity*0.36438 + table1.Perceptions_of_corruption*-0.60509

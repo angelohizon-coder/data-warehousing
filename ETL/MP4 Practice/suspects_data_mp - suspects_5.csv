@@ -1,0 +1,51 @@
+suspect_id,name,gender,age,height,hair_color,eye_color,facial_hair,tattoos,galsses,scars,feet_size,status
+441,Winifred Fleming,Female,47,Tall,Brown,Green,Yes,No,No,Yes,Large,Not Guilty
+442,Afrran Sargent,Male,35,Short,Black,Green,Yes,Yes,No,No,Large,Not Guilty
+443,Melissa Bradshaw,Female,21,Short,Brown,Brown,Yes,Yes,Yes,No,Medium,Not Guilty
+444,Talon Fields,Female,66,Short,Blonde,Brown,Yes,No,No,Yes,Medium,Not Guilty
+445,Caryn Collier,Female,38,Short,Brown,Brown,Yes,No,No,No,Medium,Not Guilty
+446,Norman Alvarado,Male,46,Medium,Brown,Blue,No,Yes,No,Yes,Medium,Not Guilty
+447,Julian Dennis,Male,59,Medium,Brown,Green,Yes,Yes,Yes,No,Large,Not Guilty
+448,Timon Cunningham,Female,55,Short,Black,Blue,Yes,Yes,Yes,Yes,Large,Not Guilty
+449,Tater Lambert,Male,76,Tall,Brown,Brown,No,No,Yes,No,Medium,Not Guilty
+450,Fletchley Benjamin,Female,52,Medium,Blonde,Green,Yes,Yes,Yes,No,Medium,Not Guilty
+451,Moll Le,Male,32,Short,Black,Brown,No,Yes,Yes,No,Medium,Not Guilty
+452,Dander Ratliff,Male,31,Medium,Blonde,Brown,Yes,Yes,No,Yes,Medium,Not Guilty
+453,Wylie Mendoza,Male,65,Medium,Black,Blue,No,No,No,No,Large,Not Guilty
+454,Hendan Butler,Male,52,Tall,Red,Brown,Yes,Yes,Yes,Yes,Small,Not Guilty
+455,Kimberley Knowles,Female,84,Tall,Blonde,Green,No,Yes,Yes,No,Large,Not Guilty
+456,Zephr Francis,Male,40,Tall,Blonde,Brown,Yes,No,Yes,Yes,Medium,Not Guilty
+457,Brexley Rhodes,Female,69,Medium,Blonde,Green,Yes,No,Yes,Yes,Medium,Not Guilty
+458,Tad Livingston,Male,37,Medium,Black,Blue,No,Yes,No,No,Large,Not Guilty
+459,Uriah Ingram,Male,20,Short,Blonde,Brown,No,No,No,Yes,Large,Not Guilty
+460,Ciara Santana,Female,81,Medium,Blonde,Brown,Yes,Yes,No,Yes,Small,Not Guilty
+461,Ardmore Sutton,Male,28,Medium,Blonde,Green,Yes,No,No,Yes,Medium,Not Guilty
+462,Quamar Wells,Female,79,Tall,Brown,Brown,No,No,No,No,Medium,Not Guilty
+463,Alice Gaines,Female,32,Short,Blonde,Blue,No,Yes,Yes,Yes,Large,Not Guilty
+464,Holden Serrano,Male,71,Short,Red,Brown,Yes,Yes,Yes,No,Large,Not Guilty
+465,Madaline Lopez,Female,33,Tall,Red,Green,No,No,Yes,Yes,Medium,Not Guilty
+466,Dani Zamora,Female,71,Medium,Blonde,Green,Yes,No,No,Yes,Small,Not Guilty
+467,Wynne Valentine,Male,32,Tall,Blonde,Blue,Yes,Yes,Yes,Yes,Small,Not Guilty
+468,Kennedy Guzman,Female,76,Short,Black,Brown,Yes,No,Yes,No,Small,Not Guilty
+469,Ayanna Poole,Female,75,Short,Blonde,Blue,No,No,No,Yes,Small,Not Guilty
+470,Mufutau Mckay,Male,77,Tall,Red,Blue,Yes,Yes,Yes,Yes,Medium,Not Guilty
+471,Echo Calderon,Female,27,Short,Blonde,Blue,Yes,Yes,Yes,No,Medium,Not Guilty
+472,Reed Sullivan,Male,76,Tall,Brown,Blue,No,Yes,No,Yes,Small,Not Guilty
+473,Rachel Gay,Female,20,Medium,Blonde,Green,No,No,No,No,Small,Not Guilty
+474,Rajah Pacheco,Female,20,Short,Blonde,Brown,No,Yes,No,No,Small,Not Guilty
+475,Ezekiel Alston,Male,78,Short,Black,Brown,Yes,No,No,No,Small,Not Guilty
+476,Noble Bridges,Female,71,Short,Black,Green,No,No,Yes,Yes,Large,Guilty
+477,Norman Strickland,Male,28,Medium,Black,Brown,Yes,Yes,No,Yes,Medium,Guilty
+478,Oliver Holt,Male,73,Tall,Black,Green,No,Yes,No,Yes,Small,Guilty
+479,Sybill Donaldson,Female,50,Medium,Red,Brown,Yes,No,No,Yes,Medium,Guilty
+480,Preston Nieves,Female,46,Tall,Brown,Brown,No,No,No,Yes,Medium,Guilty
+481,Charity Mcdaniel,Female,53,Short,Brown,Brown,No,No,No,No,Small,Guilty
+482,Joe Cruz,Male,26,Medium,Blonde,Brown,Yes,No,Yes,No,Large,Guilty
+483,Chaim Lambert,Male,67,Tall,Blonde,Blue,Yes,Yes,Yes,No,Medium,Guilty
+484,Scope Avila,Female,71,Short,Red,Brown,No,Yes,Yes,No,Medium,Guilty
+485,Ahmed Knowles,Female,46,Short,Black,Blue,Yes,Yes,No,No,Medium,Guilty
+486,Ina Lee,Female,32,Medium,Black,Brown,Yes,No,Yes,Yes,Large,Guilty
+487,Brynn Parks,Female,51,Short,Brown,Blue,No,No,Yes,Yes,Medium,Guilty
+488,Tanek Mercado,Female,54,Medium,Red,Blue,No,No,Yes,Yes,Small,Guilty
+489,Xavier Hebert,Male,44,Medium,Blonde,Blue,Yes,No,No,Yes,Small,Guilty
+490,Dan Livingston,Male,48,Medium,Blonde,Green,Yes,No,Yes,Yes,Small,Guilty

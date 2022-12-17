@@ -1,0 +1,151 @@
+suspect_id,name,gender,age,height,hair_color,eye_color,facial_hair,tattoos,galsses,scars,feet_size,status
+201,Fritz Moody,Male,51,Medium,Black,Brown,Yes,Yes,No,No,Large,Guilty
+202,Hillary Cobb,Female,32,Medium,Blonde,Brown,Yes,No,No,Yes,Medium,Guilty
+203,Britanney Randolph,Female,52,Short,Black,Brown,No,Yes,No,No,Large,Guilty
+204,Shad Gentry,Male,44,Medium,Red,Green,Yes,No,Yes,Yes,Large,Guilty
+205,Reese Lowery,Male,69,Medium,Brown,Brown,Yes,No,Yes,No,Small,Guilty
+206,Clinton Fitzgerald,Male,60,Tall,Red,Blue,Yes,No,Yes,Yes,Large,Guilty
+207,Myles Tucker,Male,85,Short,Blonde,Green,No,Yes,Yes,Yes,Medium,Guilty
+208,Rafael Fisher,Female,85,Short,Red,Green,Yes,No,No,Yes,Large,Guilty
+209,Aretha Perkins,Female,55,Medium,Black,Brown,Yes,No,No,No,Small,Guilty
+210,Nasim Jennings,Female,21,Short,Blonde,Blue,No,Yes,No,Yes,Medium,Guilty
+211,Mia Greer,Female,78,Short,Black,Brown,Yes,No,No,Yes,Small,Guilty
+212,Byron Underwood,Male,18,Short,Black,Green,Yes,No,Yes,Yes,Small,Guilty
+213,Martin Gilbert,Male,42,Short,Brown,Brown,No,No,Yes,Yes,Medium,Guilty
+214,Buffy Montoya,Female,62,Tall,Red,Blue,Yes,No,Yes,No,Medium,Guilty
+215,Mikayla Hooper,Female,57,Medium,Red,Brown,Yes,No,Yes,Yes,Medium,Guilty
+216,Jescie Nolan,Male,46,Short,Black,Green,Yes,Yes,Yes,No,Medium,Guilty
+217,Angel Garza,Male,19,Tall,Brown,Brown,Yes,Yes,Yes,Yes,Small,Guilty
+218,Damon Lindsey,Male,22,Short,Blonde,Brown,No,No,No,Yes,Small,Guilty
+219,Hermione Stanley,Female,48,Tall,Black,Green,Yes,No,Yes,Yes,Large,Guilty
+220,Howard Mcneil,Male,44,Short,Blonde,Green,Yes,No,Yes,No,Large,Guilty
+221,Palmer Macias,Male,79,Medium,Red,Brown,No,Yes,Yes,No,Large,Guilty
+222,Briary Barnett,Female,51,Short,Black,Blue,Yes,Yes,Yes,Yes,Medium,Guilty
+223,Yen Franks,Male,68,Short,Brown,Blue,Yes,Yes,Yes,No,Small,Guilty
+224,James Conley,Male,33,Medium,Red,Blue,Yes,No,No,Yes,Large,Guilty
+225,Amery Hatfield,Female,75,Tall,Red,Green,No,No,Yes,No,Small,Guilty
+226,Latifa Combs,Female,52,Short,Blonde,Brown,Yes,No,Yes,Yes,Large,Guilty
+227,Mercedes Sandoval,Female,54,Short,Red,Blue,No,No,No,No,Medium,Guilty
+228,Dylan Jacobs,Male,46,Tall,Brown,Green,Yes,No,No,No,Small,Guilty
+229,Jennifer Dyer,Female,48,Tall,Red,Brown,No,Yes,No,Yes,Medium,Guilty
+230,Arden Perry,Female,74,Tall,Brown,Brown,Yes,No,Yes,No,Small,Guilty
+231,Lacy Burks,Male,32,Tall,Brown,Brown,No,No,Yes,Yes,Small,Guilty
+232,Holmes Goodman,Male,70,Medium,Blonde,Brown,No,Yes,No,Yes,Medium,Not Guilty
+233,Rain Bell,Female,52,Medium,Blonde,Blue,No,Yes,Yes,Yes,Medium,Not Guilty
+234,Raven Blender,Male,42,Short,Red,Blue,No,No,No,No,Medium,Not Guilty
+235,Celia Austin,Female,78,Short,Black,Green,Yes,Yes,Yes,No,Medium,Not Guilty
+236,Dora Lucas,Female,65,Medium,Black,Green,Yes,Yes,No,Yes,Medium,Not Guilty
+237,Raphael Sandoval,Female,35,Short,Blonde,Blue,No,Yes,Yes,No,Medium,Not Guilty
+238,Hollee Haley,Female,43,Short,Black,Green,No,Yes,Yes,No,Large,Not Guilty
+239,Nina Campbell,Female,42,Tall,Black,Brown,Yes,No,No,No,Small,Not Guilty
+240,Ashely Pugh,Female,84,Tall,Red,Brown,No,Yes,No,Yes,Medium,Not Guilty
+241,Fallon Johnson,Male,55,Tall,Blonde,Green,No,No,Yes,No,Large,Not Guilty
+242,Yetta Hartman,Female,18,Short,Red,Green,Yes,No,Yes,Yes,Medium,Not Guilty
+243,Shirley Hahn,Male,21,Medium,Black,Blue,Yes,No,No,Yes,Small,Not Guilty
+244,Jarro Justice,Female,33,Short,Blonde,Brown,Yes,Yes,Yes,No,Medium,Not Guilty
+245,Jessica Savage,Female,37,Short,Blonde,Green,Yes,Yes,No,No,Large,Not Guilty
+246,Timon Woodard,Female,27,Medium,Black,Blue,No,Yes,Yes,Yes,Large,Not Guilty
+247,Gala Browning,Female,70,Medium,Red,Brown,No,Yes,No,Yes,Large,Not Guilty
+248,Tanek Dalton,Female,71,Medium,Red,Blue,Yes,Yes,Yes,No,Medium,Not Guilty
+249,Brian Russo,Male,74,Short,Blonde,Blue,Yes,Yes,No,No,Small,Not Guilty
+250,Natalie Rosario,Female,23,Short,Brown,Green,Yes,Yes,Yes,Yes,Medium,Not Guilty
+251,Deacon Lucas,Male,66,Tall,Black,Brown,No,Yes,Yes,No,Small,Not Guilty
+252,Clayton Howell,Male,41,Medium,Brown,Green,Yes,Yes,No,No,Large,Not Guilty
+253,Ignacia England,Female,80,Short,Black,Blue,No,No,Yes,Yes,Large,Not Guilty
+254,Thaddeus Mclaughlin,Male,66,Short,Blonde,Green,Yes,Yes,No,No,Medium,Not Guilty
+255,Lancelot Morton,Male,56,Tall,Blonde,Blue,No,No,Yes,Yes,Large,Not Guilty
+256,Simone Pearson,Female,74,Short,Black,Brown,No,No,No,Yes,Medium,Not Guilty
+257,Kaleigh Ramsey,Female,48,Short,Blonde,Brown,No,No,No,Yes,Small,Not Guilty
+258,Ila Stewart,Female,54,Tall,Brown,Blue,Yes,Yes,No,Yes,Medium,Not Guilty
+259,Deacon Francis,Male,49,Tall,Brown,Brown,Yes,No,Yes,No,Large,Not Guilty
+260,Andy Bennett,Male,71,Tall,Black,Blue,Yes,No,Yes,Yes,Medium,Not Guilty
+261,Jack Yang,Male,75,Medium,Red,Blue,No,Yes,No,No,Large,Not Guilty
+262,Reese Hood,Male,53,Short,Red,Brown,No,Yes,Yes,No,Large,Not Guilty
+263,Jakeem Cash,Male,70,Tall,Brown,Green,Yes,No,Yes,Yes,Large,Not Guilty
+264,Adena Burks,Female,25,Tall,Brown,Blue,Yes,No,Yes,Yes,Small,Not Guilty
+265,Orville Rush,Male,85,Tall,Red,Brown,Yes,No,No,No,Small,Not Guilty
+266,Bevis Koch,Female,42,Medium,Black,Green,Yes,No,No,No,Small,Not Guilty
+267,Denni Bentley,Female,33,Medium,Blonde,Green,Yes,No,Yes,Yes,Small,Not Guilty
+268,Aaron Bradford,Male,82,Tall,Blonde,Green,No,Yes,No,Yes,Large,Not Guilty
+269,William Burke,Male,67,Medium,Red,Green,Yes,No,No,No,Medium,Not Guilty
+270,Martin Snyder,Male,84,Medium,Black,Green,No,No,Yes,Yes,Medium,Not Guilty
+271,Yael Bowen,Female,24,Tall,Brown,Green,Yes,No,Yes,No,Large,Not Guilty
+272,Lewis Knight,Male,62,Tall,Red,Green,Yes,Yes,No,No,Small,Not Guilty
+273,Peter Clark,Male,79,Medium,Red,Blue,No,No,Yes,No,Large,Not Guilty
+274,Colby Watts,Female,41,Short,Blonde,Blue,Yes,No,No,Yes,Medium,Not Guilty
+275,Tada Hensley,Female,48,Short,Blonde,Green,No,No,No,Yes,Small,Not Guilty
+276,Oliver Mcleod,Male,19,Tall,Brown,Brown,Yes,No,Yes,Yes,Small,Not Guilty
+277,Landa Valencia,Male,23,Medium,Blonde,Blue,Yes,No,No,No,Small,Not Guilty
+278,Garth Mckee,Male,30,Short,Black,Green,Yes,Yes,No,No,Medium,Not Guilty
+279,Yuli Shannon,Female,80,Short,Black,Blue,No,Yes,Yes,No,Large,Not Guilty
+280,Nelle Holt,Female,80,Tall,Red,Green,No,Yes,Yes,Yes,Small,Not Guilty
+281,Gillian David,Female,26,Short,Blonde,Green,No,No,No,Yes,Large,Not Guilty
+282,Christian Weiss,Male,60,Tall,Blonde,Green,No,No,Yes,No,Medium,Not Guilty
+283,Chelsea Manning,Female,22,Tall,Blonde,Blue,Yes,No,No,No,Small,Not Guilty
+284,Jamal Maxwell,Male,81,Tall,Red,Green,Yes,Yes,No,Yes,Large,Not Guilty
+285,Bevis Sykes,Female,57,Medium,Blonde,Brown,No,Yes,Yes,No,Large,Not Guilty
+286,Virginia William,Female,72,Medium,Blonde,Blue,No,Yes,Yes,Yes,Large,Not Guilty
+287,Jonas Dunlap,Male,51,Short,Red,Blue,No,No,Yes,Yes,Large,Not Guilty
+288,Stephanie Flynn,Female,30,Tall,Red,Blue,No,No,Yes,No,Medium,Not Guilty
+289,Clarke Kinney,Male,51,Tall,Brown,Blue,Yes,No,No,No,Small,Not Guilty
+290,Ashely Juarez,Female,37,Tall,Red,Brown,No,No,No,No,Large,Not Guilty
+291,Brent Mitchell,Male,54,Short,Black,Blue,No,Yes,No,No,Small,Not Guilty
+292,Maile Walters,Male,63,Short,Blonde,Blue,Yes,No,Yes,No,Large,Not Guilty
+293,Lacota Cunningham,Male,65,Short,Red,Green,Yes,Yes,Yes,Yes,Medium,Not Guilty
+294,Claire Moses,Female,67,Tall,Brown,Brown,Yes,Yes,No,No,Small,Not Guilty
+295,Jayme Morris,Male,76,Short,Blonde,Blue,No,No,No,Yes,Small,Not Guilty
+296,Kyra Mullen,Male,78,Medium,Red,Brown,Yes,Yes,Yes,No,Large,Not Guilty
+297,Pat Glass,Male,37,Tall,Black,Brown,No,No,Yes,No,Medium,Not Guilty
+298,Steph Savage,Female,48,Medium,Blonde,Brown,Yes,No,Yes,Yes,Small,Not Guilty
+299,Bethany Madden,Female,81,Short,Brown,Blue,Yes,No,Yes,No,Small,Not Guilty
+300,Abra Miles,Male,75,Tall,Blonde,Blue,No,No,Yes,No,Large,Not Guilty
+301,Ethan Lee,Male,57,Short,Black,Brown,Yes,No,Yes,Yes,Small,Not Guilty
+302,Graiden Johnston,Male,53,Short,Brown,Green,No,No,Yes,No,Small,Not Guilty
+303,Cara Beck,Female,46,Medium,Blonde,Brown,No,No,No,No,Medium,Not Guilty
+304,Riley Avery,Female,58,Medium,Red,Brown,Yes,No,No,Yes,Medium,Not Guilty
+305,Kylie Hays,Female,46,Medium,Red,Brown,No,Yes,Yes,No,Medium,Not Guilty
+306,Travis Morton,Female,42,Short,Brown,Brown,No,No,No,Yes,Large,Not Guilty
+307,Faith Mcdaniel,Female,65,Short,Red,Brown,Yes,No,No,Yes,Large,Not Guilty
+308,Autumn Camacho,Female,76,Short,Red,Blue,Yes,Yes,Yes,Yes,Medium,Not Guilty
+309,Dante Estes,Male,36,Short,Brown,Brown,No,No,No,No,Small,Not Guilty
+310,Uriah Wagner,Female,26,Medium,Black,Brown,Yes,Yes,No,No,Small,Not Guilty
+311,Anika Strong,Female,72,Tall,Black,Blue,Yes,No,Yes,No,Medium,Not Guilty
+312,Rinae Riggs,Male,40,Tall,Black,Brown,No,No,Yes,No,Large,Not Guilty
+313,Kamalia Valenzuela,Female,62,Medium,Black,Blue,No,Yes,No,No,Medium,Not Guilty
+314,Haviva Cook,Male,32,Tall,Red,Green,No,No,No,No,Small,Not Guilty
+315,Darrela Navarro,Female,82,Short,Brown,Blue,Yes,Yes,Yes,No,Large,Not Guilty
+316,Quinn Booth,Female,78,Medium,Brown,Green,No,Yes,No,No,Small,Not Guilty
+317,Nate Mccarty,Male,30,Medium,Brown,Green,No,No,No,Yes,Small,Not Guilty
+318,Martin Galloway,Male,41,Tall,Black,Blue,Yes,Yes,Yes,No,Large,Not Guilty
+319,Serena Coleman,Female,51,Medium,Brown,Blue,No,No,No,Yes,Small,Not Guilty
+320,Buckminster Whitaker,Female,83,Tall,Brown,Green,No,Yes,No,No,Medium,Not Guilty
+321,Cherokee Riley,Female,62,Medium,Brown,Green,Yes,No,No,Yes,Small,Not Guilty
+322,Isaiah Snyder,Female,62,Medium,Black,Brown,No,No,Yes,No,Large,Not Guilty
+323,Jemima Alford,Female,67,Medium,Brown,Brown,No,Yes,No,Yes,Small,Not Guilty
+324,Sandy Ruiz,Male,69,Tall,Red,Brown,Yes,Yes,No,Yes,Medium,Not Guilty
+325,Cruiz Logan,Female,80,Medium,Blonde,Brown,No,Yes,Yes,No,Large,Not Guilty
+326,Lentil Hall,Female,50,Medium,Blonde,Brown,Yes,Yes,No,Yes,Large,Not Guilty
+327,Macey Harrington,Male,37,Short,Red,Blue,No,Yes,No,Yes,Large,Not Guilty
+328,Aurelia Rich,Female,18,Tall,Red,Blue,No,No,No,No,Large,Not Guilty
+329,Shoshana Kelley,Male,67,Medium,Black,Blue,Yes,Yes,Yes,No,Medium,Not Guilty
+330,Wendy Perry,Female,62,Tall,Black,Brown,Yes,No,No,Yes,Small,Not Guilty
+331,Teegan Mcmahon,Female,33,Tall,Brown,Green,Yes,No,Yes,Yes,Medium,Not Guilty
+332,Madeline Nixon,Female,68,Tall,Blonde,Brown,No,No,Yes,Yes,Large,Not Guilty
+333,Maxwell Dickerson,Male,75,Medium,Red,Blue,No,No,Yes,Yes,Small,Not Guilty
+334,Hilel Flores,Male,68,Tall,Blonde,Green,Yes,No,No,Yes,Medium,Not Guilty
+335,Yoshio Rasmussen,Male,50,Short,Brown,Green,Yes,Yes,No,No,Large,Not Guilty
+336,Ryder Marshall,Male,56,Tall,Brown,Blue,No,Yes,Yes,No,Medium,Not Guilty
+337,Jordan Sharpe,Male,38,Tall,Black,Brown,Yes,Yes,No,Yes,Small,Not Guilty
+338,Kasper Good,Male,55,Medium,Black,Blue,No,No,Yes,Yes,Large,Not Guilty
+339,Damon Stark,Male,75,Medium,Black,Blue,No,Yes,Yes,Yes,Small,Not Guilty
+340,Beth Cash,Female,57,Tall,Blonde,Blue,Yes,Yes,Yes,Yes,Small,Not Guilty
+341,Tany Marquez,Male,28,Short,Blonde,Blue,Yes,Yes,No,No,Small,Not Guilty
+342,Faith Beck,Female,78,Short,Brown,Green,No,No,No,No,Medium,Not Guilty
+343,Kid Sharp,Male,56,Medium,Black,Brown,Yes,Yes,No,No,Large,Not Guilty
+344,Paul Oneill,Male,44,Medium,Red,Brown,No,Yes,Yes,No,Medium,Not Guilty
+345,Wyoming Wade,Female,43,Short,Black,Brown,No,Yes,Yes,No,Large,Not Guilty
+346,Yasir Bradshaw,Male,80,Short,Red,Brown,No,Yes,No,Yes,Small,Not Guilty
+347,Venir Jarvis,Male,23,Medium,Red,Blue,No,No,Yes,Yes,Medium,Not Guilty
+348,Scarlett Oneill,Female,81,Medium,Brown,Blue,Yes,Yes,Yes,No,Small,Not Guilty
+349,Paul Dominguez,Male,34,Tall,Red,Blue,Yes,No,No,No,Medium,Not Guilty
+350,Kessie Benson,Female,61,Tall,Brown,Blue,No,Yes,Yes,No,Small,Not Guilty

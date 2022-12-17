@@ -1,0 +1,776 @@
+AlbumId,Title,ArtistId,Name
+1,AC/DC,1.0,For Those About To Rock We Salute You
+1,AC/DC,4.0,Let There Be Rock
+1,For Those About To Rock We Salute You,1.0,AC/DC
+2,Accept,2.0,Balls to the Wall
+2,Accept,3.0,Restless and Wild
+2,Balls to the Wall,2.0,Accept
+3,Aerosmith,5.0,Big Ones
+3,Restless and Wild,2.0,Accept
+4,Alanis Morissette,6.0,Jagged Little Pill
+4,Let There Be Rock,1.0,AC/DC
+5,Alice In Chains,7.0,Facelift
+5,Big Ones,3.0,Aerosmith
+6,Antônio Carlos Jobim,8.0,Warner 25 Anos
+6,Antônio Carlos Jobim,34.0,Chill: Brazil (Disc 2)
+6,Jagged Little Pill,4.0,Alanis Morissette
+7,Apocalyptica,9.0,Plays Metallica By Four Cellos
+7,Facelift,5.0,Alice In Chains
+8,Audioslave,10.0,Audioslave
+8,Audioslave,11.0,Out Of Exile
+8,Audioslave,271.0,Revelations
+8,Warner 25 Anos,6.0,Antônio Carlos Jobim
+9,BackBeat,12.0,BackBeat Soundtrack
+9,Plays Metallica By Four Cellos,7.0,Apocalyptica
+10,Audioslave,8.0,Audioslave
+10,Billy Cobham,13.0,The Best Of Billy Cobham
+11,Black Label Society,14.0,Alcohol Fueled Brewtality Live! [Disc 1]
+11,Black Label Society,15.0,Alcohol Fueled Brewtality Live! [Disc 2]
+11,Out Of Exile,8.0,Audioslave
+12,BackBeat Soundtrack,9.0,BackBeat
+12,Black Sabbath,16.0,Black Sabbath
+12,Black Sabbath,17.0,Black Sabbath Vol. 4 (Remaster)
+13,Body Count,18.0,Body Count
+13,The Best Of Billy Cobham,10.0,Billy Cobham
+14,Alcohol Fueled Brewtality Live! [Disc 1],11.0,Black Label Society
+14,Bruce Dickinson,19.0,Chemical Wedding
+15,Alcohol Fueled Brewtality Live! [Disc 2],11.0,Black Label Society
+15,Buddy Guy,20.0,The Best Of Buddy Guy - The Millenium Collection
+16,Black Sabbath,12.0,Black Sabbath
+16,Caetano Veloso,21.0,Prenda Minha
+16,Caetano Veloso,22.0,Sozinho Remix Ao Vivo
+17,Black Sabbath Vol. 4 (Remaster),12.0,Black Sabbath
+17,Chico Buarque,23.0,Minha Historia
+18,Body Count,13.0,Body Count
+18,Chico Science & Nação Zumbi,24.0,Afrociberdelia
+18,Chico Science & Nação Zumbi,25.0,Da Lama Ao Caos
+19,Chemical Wedding,14.0,Bruce Dickinson
+19,Cidade Negra,26.0,Acústico MTV [Live]
+19,Cidade Negra,27.0,Cidade Negra - Hits
+20,Cláudio Zoli,28.0,Na Pista
+20,The Best Of Buddy Guy - The Millenium Collection,15.0,Buddy Guy
+21,Prenda Minha,16.0,Caetano Veloso
+21,Various Artists,29.0,Axé Bahia 2001
+21,Various Artists,32.0,Carnaval 2001
+21,Various Artists,45.0,Sambas De Enredo 2001
+21,Various Artists,53.0,Vozes do MPB
+22,Led Zeppelin,30.0,BBC Sessions [Disc 1] [Live]
+22,Led Zeppelin,44.0,Physical Graffiti [Disc 1]
+22,Led Zeppelin,127.0,BBC Sessions [Disc 2] [Live]
+22,Led Zeppelin,128.0,Coda
+22,Led Zeppelin,129.0,Houses Of The Holy
+22,Led Zeppelin,130.0,In Through The Out Door
+22,Led Zeppelin,131.0,IV
+22,Led Zeppelin,132.0,Led Zeppelin I
+22,Led Zeppelin,133.0,Led Zeppelin II
+22,Led Zeppelin,134.0,Led Zeppelin III
+22,Led Zeppelin,135.0,Physical Graffiti [Disc 2]
+22,Led Zeppelin,136.0,Presence
+22,Led Zeppelin,137.0,The Song Remains The Same (Disc 1)
+22,Led Zeppelin,138.0,The Song Remains The Same (Disc 2)
+22,Sozinho Remix Ao Vivo,16.0,Caetano Veloso
+23,Frank Zappa & Captain Beefheart,31.0,Bongo Fury
+23,Minha Historia,17.0,Chico Buarque
+24,Afrociberdelia,18.0,Chico Science & Nação Zumbi
+24,Marcos Valle,33.0,Chill: Brazil (Disc 1)
+25,Da Lama Ao Caos,18.0,Chico Science & Nação Zumbi
+25,Milton Nascimento & Bebeto,,
+26,Acústico MTV [Live],19.0,Cidade Negra
+26,Azymuth,,
+27,Cidade Negra - Hits,19.0,Cidade Negra
+27,Gilberto Gil,85.0,As Canções de Eu Tu Eles
+27,Gilberto Gil,86.0,Quanta Gente Veio Ver (Live)
+27,Gilberto Gil,87.0,Quanta Gente Veio ver--Bônus De Carnaval
+28,João Gilberto,,
+28,Na Pista,20.0,Cláudio Zoli
+29,Axé Bahia 2001,21.0,Various Artists
+29,Bebel Gilberto,,
+30,BBC Sessions [Disc 1] [Live],22.0,Led Zeppelin
+30,Jorge Vercilo,,
+31,Baby Consuelo,,
+31,Bongo Fury,23.0,Frank Zappa & Captain Beefheart
+32,Carnaval 2001,21.0,Various Artists
+32,Ney Matogrosso,,
+33,Chill: Brazil (Disc 1),24.0,Marcos Valle
+33,Luiz Melodia,,
+34,Chill: Brazil (Disc 2),6.0,Antônio Carlos Jobim
+34,Nando Reis,,
+35,Garage Inc. (Disc 1),50.0,Metallica
+35,Pedro Luís & A Parede,,
+36,Greatest Hits II,51.0,Queen
+36,O Rappa,259.0,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro
+37,Ed Motta,47.0,The Best of Ed Motta
+37,Greatest Kiss,52.0,Kiss
+38,Banda Black Rio,,
+38,Heart of the Night,53.0,Spyro Gyra
+39,Fernanda Porto,,
+39,International Superhits,54.0,Green Day
+40,Into The Light,55.0,David Coverdale
+40,Os Cariocas,,
+41,Elis Regina,71.0,Elis Regina-Minha História
+41,Meus Momentos,56.0,Gonzaguinha
+42,Milton Nascimento,158.0,Milton Nascimento Ao Vivo
+42,Milton Nascimento,159.0,Minas
+42,Minha História,57.0,Os Mutantes
+43,A Cor Do Som,,
+43,MK III The Final Concerts [Disc 1],58.0,Deep Purple
+44,Kid Abelha,,
+44,Physical Graffiti [Disc 1],22.0,Led Zeppelin
+45,Sambas De Enredo 2001,21.0,Various Artists
+45,Sandra De Sá,,
+46,Jorge Ben,122.0,Jorge Ben Jor 25 Anos
+46,Supernatural,59.0,Santana
+47,Hermeto Pascoal,,
+47,The Best of Ed Motta,37.0,Ed Motta
+48,Barão Vermelho,,
+48,The Essential Miles Davis [Disc 1],68.0,Miles Davis
+49,"Edson, DJ Marky & DJ Patife Featuring Fernanda Porto",,
+49,The Essential Miles Davis [Disc 2],68.0,Miles Davis
+50,Metallica,35.0,Garage Inc. (Disc 1)
+50,Metallica,148.0,Black Album
+50,Metallica,149.0,Garage Inc. (Disc 2)
+50,Metallica,150.0,Kill 'Em All
+50,Metallica,151.0,Load
+50,Metallica,152.0,Master Of Puppets
+50,Metallica,153.0,ReLoad
+50,Metallica,154.0,Ride The Lightning
+50,Metallica,155.0,St. Anger
+50,Metallica,156.0,...And Justice For All
+50,The Final Concerts (Disc 2),58.0,Deep Purple
+51,Queen,36.0,Greatest Hits II
+51,Queen,185.0,Greatest Hits I
+51,Queen,186.0,News Of The World
+51,Up An' Atom,69.0,Gene Krupa
+52,Kiss,37.0,Greatest Kiss
+52,Kiss,126.0,Unplugged [Live]
+52,Vinícius De Moraes - Sem Limite,70.0,Toquinho & Vinícius
+53,Spyro Gyra,38.0,Heart of the Night
+53,Spyro Gyra,204.0,Morning Dance
+53,Vozes do MPB,21.0,Various Artists
+54,"Chronicle, Vol. 1",76.0,Creedence Clearwater Revival
+54,Green Day,39.0,International Superhits
+54,Green Day,89.0,American Idiot
+55,"Chronicle, Vol. 2",76.0,Creedence Clearwater Revival
+55,David Coverdale,40.0,Into The Light
+56,Cássia Eller - Coleção Sem Limite [Disc 2],77.0,Cássia Eller
+56,Gonzaguinha,41.0,Meus Momentos
+57,Cássia Eller - Sem Limite [Disc 1],77.0,Cássia Eller
+57,Os Mutantes,42.0,Minha História
+58,Come Taste The Band,58.0,Deep Purple
+58,Deep Purple,43.0,MK III The Final Concerts [Disc 1]
+58,Deep Purple,50.0,The Final Concerts (Disc 2)
+58,Deep Purple,58.0,Come Taste The Band
+58,Deep Purple,59.0,Deep Purple In Rock
+58,Deep Purple,60.0,Fireball
+58,Deep Purple,61.0,Knocking at Your Back Door: The Best Of Deep Purple in the 80's
+58,Deep Purple,62.0,Machine Head
+58,Deep Purple,63.0,Purpendicular
+58,Deep Purple,64.0,Slaves And Masters
+58,Deep Purple,65.0,Stormbringer
+58,Deep Purple,66.0,The Battle Rages On
+59,Deep Purple In Rock,58.0,Deep Purple
+59,Santana,46.0,Supernatural
+59,Santana,197.0,Santana - As Years Go By
+59,Santana,198.0,Santana Live
+60,Fireball,58.0,Deep Purple
+60,Santana Feat. Dave Matthews,,
+61,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,58.0,Deep Purple
+61,Santana Feat. Everlast,,
+62,Machine Head,58.0,Deep Purple
+62,Santana Feat. Rob Thomas,,
+63,Purpendicular,58.0,Deep Purple
+63,Santana Feat. Lauryn Hill & Cee-Lo,,
+64,Santana Feat. The Project G&B,,
+64,Slaves And Masters,58.0,Deep Purple
+65,Santana Feat. Maná,,
+65,Stormbringer,58.0,Deep Purple
+66,Santana Feat. Eagle-Eye Cherry,,
+66,The Battle Rages On,58.0,Deep Purple
+67,Santana Feat. Eric Clapton,,
+67,Vault: Def Leppard's Greatest Hits,78.0,Def Leppard
+68,Miles Davis,48.0,The Essential Miles Davis [Disc 1]
+68,Miles Davis,49.0,The Essential Miles Davis [Disc 2]
+68,Miles Davis,157.0,Miles Ahead
+68,Outbreak,79.0,Dennis Chambers
+69,Djavan Ao Vivo - Vol. 02,80.0,Djavan
+69,Gene Krupa,51.0,Up An' Atom
+70,Djavan Ao Vivo - Vol. 1,80.0,Djavan
+70,Toquinho & Vinícius,52.0,Vinícius De Moraes - Sem Limite
+71,Elis Regina-Minha História,41.0,Elis Regina
+71,Vinícius De Moraes & Baden Powell,,
+72,The Cream Of Clapton,81.0,Eric Clapton
+72,Vinícius De Moraes,247.0,Vinicius De Moraes
+73,Unplugged,81.0,Eric Clapton
+73,Vinícius E Qurteto Em Cy,,
+74,Album Of The Year,82.0,Faith No More
+74,Vinícius E Odette Lara,,
+75,Angel Dust,82.0,Faith No More
+75,"Vinicius, Toquinho & Quarteto Em Cy",,
+76,Creedence Clearwater Revival,54.0,"Chronicle, Vol. 1"
+76,Creedence Clearwater Revival,55.0,"Chronicle, Vol. 2"
+76,King For A Day Fool For A Lifetime,82.0,Faith No More
+77,Cássia Eller,56.0,Cássia Eller - Coleção Sem Limite [Disc 2]
+77,Cássia Eller,57.0,Cássia Eller - Sem Limite [Disc 1]
+77,The Real Thing,82.0,Faith No More
+78,Def Leppard,67.0,Vault: Def Leppard's Greatest Hits
+78,Deixa Entrar,83.0,Falamansa
+79,Dennis Chambers,68.0,Outbreak
+79,In Your Honor [Disc 1],84.0,Foo Fighters
+80,Djavan,69.0,Djavan Ao Vivo - Vol. 02
+80,Djavan,70.0,Djavan Ao Vivo - Vol. 1
+80,In Your Honor [Disc 2],84.0,Foo Fighters
+81,Eric Clapton,72.0,The Cream Of Clapton
+81,Eric Clapton,73.0,Unplugged
+81,One By One,84.0,Foo Fighters
+82,Faith No More,74.0,Album Of The Year
+82,Faith No More,75.0,Angel Dust
+82,Faith No More,76.0,King For A Day Fool For A Lifetime
+82,Faith No More,77.0,The Real Thing
+82,The Colour And The Shape,84.0,Foo Fighters
+83,Falamansa,78.0,Deixa Entrar
+83,My Way: The Best Of Frank Sinatra [Disc 1],85.0,Frank Sinatra
+84,Foo Fighters,79.0,In Your Honor [Disc 1]
+84,Foo Fighters,80.0,In Your Honor [Disc 2]
+84,Foo Fighters,81.0,One By One
+84,Foo Fighters,82.0,The Colour And The Shape
+84,Roda De Funk,86.0,Funk Como Le Gusta
+85,As Canções de Eu Tu Eles,27.0,Gilberto Gil
+85,Frank Sinatra,83.0,My Way: The Best Of Frank Sinatra [Disc 1]
+86,Funk Como Le Gusta,84.0,Roda De Funk
+86,Quanta Gente Veio Ver (Live),27.0,Gilberto Gil
+87,Godsmack,88.0,Faceless
+87,Quanta Gente Veio ver--Bônus De Carnaval,27.0,Gilberto Gil
+88,Faceless,87.0,Godsmack
+88,Guns N' Roses,90.0,Appetite for Destruction
+88,Guns N' Roses,91.0,Use Your Illusion I
+88,Guns N' Roses,92.0,Use Your Illusion II
+89,American Idiot,54.0,Green Day
+89,Incognito,93.0,Blue Moods
+90,Appetite for Destruction,88.0,Guns N' Roses
+90,Iron Maiden,94.0,A Matter of Life and Death
+90,Iron Maiden,95.0,A Real Dead One
+90,Iron Maiden,96.0,A Real Live One
+90,Iron Maiden,97.0,Brave New World
+90,Iron Maiden,98.0,Dance Of Death
+90,Iron Maiden,99.0,Fear Of The Dark
+90,Iron Maiden,100.0,Iron Maiden
+90,Iron Maiden,101.0,Killers
+90,Iron Maiden,102.0,Live After Death
+90,Iron Maiden,103.0,Live At Donington 1992 (Disc 1)
+90,Iron Maiden,104.0,Live At Donington 1992 (Disc 2)
+90,Iron Maiden,105.0,No Prayer For The Dying
+90,Iron Maiden,106.0,Piece Of Mind
+90,Iron Maiden,107.0,Powerslave
+90,Iron Maiden,108.0,Rock In Rio [CD1]
+90,Iron Maiden,109.0,Rock In Rio [CD2]
+90,Iron Maiden,110.0,Seventh Son of a Seventh Son
+90,Iron Maiden,111.0,Somewhere in Time
+90,Iron Maiden,112.0,The Number of The Beast
+90,Iron Maiden,113.0,The X Factor
+90,Iron Maiden,114.0,Virtual XI
+91,James Brown,115.0,Sex Machine
+91,Use Your Illusion I,88.0,Guns N' Roses
+92,Jamiroquai,116.0,Emergency On Planet Earth
+92,Jamiroquai,117.0,Synkronized
+92,Jamiroquai,118.0,The Return Of The Space Cowboy
+92,Use Your Illusion II,88.0,Guns N' Roses
+93,Blue Moods,89.0,Incognito
+93,JET,119.0,Get Born
+94,A Matter of Life and Death,90.0,Iron Maiden
+94,Jimi Hendrix,120.0,Are You Experienced?
+95,A Real Dead One,90.0,Iron Maiden
+95,Joe Satriani,121.0,Surfing with the Alien (Remastered)
+96,A Real Live One,90.0,Iron Maiden
+96,Jota Quest,123.0,Jota Quest-1995
+97,Brave New World,90.0,Iron Maiden
+97,João Suplicy,124.0,Cafezinho
+98,Dance Of Death,90.0,Iron Maiden
+98,Judas Priest,125.0,Living After Midnight
+99,Fear Of The Dark,90.0,Iron Maiden
+99,Legião Urbana,139.0,A TempestadeTempestade Ou O Livro Dos Dias
+99,Legião Urbana,140.0,Mais Do Mesmo
+100,Iron Maiden,90.0,Iron Maiden
+100,Lenny Kravitz,141.0,Greatest Hits
+101,Killers,90.0,Iron Maiden
+101,Lulu Santos,142.0,Lulu Santos - RCA 100 Anos De Música - Álbum 01
+101,Lulu Santos,143.0,Lulu Santos - RCA 100 Anos De Música - Álbum 02
+102,Live After Death,90.0,Iron Maiden
+102,Marillion,144.0,Misplaced Childhood
+103,Live At Donington 1992 (Disc 1),90.0,Iron Maiden
+103,Marisa Monte,145.0,Barulhinho Bom
+104,Live At Donington 1992 (Disc 2),90.0,Iron Maiden
+104,Marvin Gaye,146.0,Seek And Shall Find: More Of The Best (1963-1981)
+105,Men At Work,147.0,The Best Of Men At Work
+105,No Prayer For The Dying,90.0,Iron Maiden
+106,Motörhead,160.0,Ace Of Spades
+106,Piece Of Mind,90.0,Iron Maiden
+107,Motörhead & Girlschool,,
+107,Powerslave,90.0,Iron Maiden
+108,Mônica Marianno,161.0,Demorou...
+108,Rock In Rio [CD1],90.0,Iron Maiden
+109,Mötley Crüe,162.0,Motley Crue Greatest Hits
+109,Rock In Rio [CD2],90.0,Iron Maiden
+110,Nirvana,163.0,From The Muddy Banks Of The Wishkah [Live]
+110,Nirvana,164.0,Nevermind
+110,Seventh Son of a Seventh Son,90.0,Iron Maiden
+111,O Terço,165.0,Compositores
+111,Somewhere in Time,90.0,Iron Maiden
+112,Olodum,166.0,Olodum
+112,The Number of The Beast,90.0,Iron Maiden
+113,Os Paralamas Do Sucesso,167.0,Acústico MTV
+113,Os Paralamas Do Sucesso,168.0,Arquivo II
+113,Os Paralamas Do Sucesso,169.0,Arquivo Os Paralamas Do Sucesso
+113,The X Factor,90.0,Iron Maiden
+114,Ozzy Osbourne,170.0,Bark at the Moon (Remastered)
+114,Ozzy Osbourne,171.0,Blizzard of Ozz
+114,Ozzy Osbourne,172.0,Diary of a Madman (Remastered)
+114,Ozzy Osbourne,173.0,No More Tears (Remastered)
+114,Ozzy Osbourne,174.0,Tribute
+114,Ozzy Osbourne,256.0,Speak of the Devil
+114,Virtual XI,90.0,Iron Maiden
+115,Page & Plant,175.0,Walking Into Clarksdale
+115,Sex Machine,91.0,James Brown
+116,Emergency On Planet Earth,92.0,Jamiroquai
+116,Passengers,176.0,Original Soundtracks 1
+117,Paul D'Ianno,177.0,The Beast Live
+117,Synkronized,92.0,Jamiroquai
+118,Pearl Jam,178.0,Live On Two Legs [Live]
+118,Pearl Jam,179.0,Pearl Jam
+118,Pearl Jam,180.0,Riot Act
+118,Pearl Jam,181.0,Ten
+118,Pearl Jam,182.0,Vs.
+118,The Return Of The Space Cowboy,92.0,Jamiroquai
+119,Get Born,93.0,JET
+119,Peter Tosh,,
+120,Are You Experienced?,94.0,Jimi Hendrix
+120,Pink Floyd,183.0,Dark Side Of The Moon
+121,Planet Hemp,184.0,Os Cães Ladram Mas A Caravana Não Pára
+121,Surfing with the Alien (Remastered),95.0,Joe Satriani
+122,Jorge Ben Jor 25 Anos,46.0,Jorge Ben
+122,R.E.M. Feat. Kate Pearson,187.0,Out Of Time
+123,Jota Quest-1995,96.0,Jota Quest
+123,R.E.M. Feat. KRS-One,,
+124,Cafezinho,97.0,João Suplicy
+124,R.E.M.,188.0,Green
+124,R.E.M.,189.0,New Adventures In Hi-Fi
+124,R.E.M.,190.0,The Best Of R.E.M.: The IRS Years
+125,Living After Midnight,98.0,Judas Priest
+125,Raimundos,191.0,Cesta Básica
+126,Raul Seixas,192.0,Raul Seixas
+126,Unplugged [Live],52.0,Kiss
+127,BBC Sessions [Disc 2] [Live],22.0,Led Zeppelin
+127,Red Hot Chili Peppers,193.0,Blood Sugar Sex Magik
+127,Red Hot Chili Peppers,194.0,By The Way
+127,Red Hot Chili Peppers,195.0,Californication
+128,Coda,22.0,Led Zeppelin
+128,Rush,196.0,Retrospective I (1974-1980)
+129,Houses Of The Holy,22.0,Led Zeppelin
+129,Simply Red,,
+130,In Through The Out Door,22.0,Led Zeppelin
+130,Skank,199.0,Maquinarama
+130,Skank,200.0,O Samba Poconé
+131,IV,22.0,Led Zeppelin
+131,Smashing Pumpkins,201.0,Judas 0: B-Sides and Rarities
+131,Smashing Pumpkins,202.0,Rotten Apples: Greatest Hits
+132,Led Zeppelin I,22.0,Led Zeppelin
+132,Soundgarden,203.0,A-Sides
+133,Led Zeppelin II,22.0,Led Zeppelin
+133,Stevie Ray Vaughan & Double Trouble,205.0,In Step
+134,Led Zeppelin III,22.0,Led Zeppelin
+134,Stone Temple Pilots,206.0,Core
+135,Physical Graffiti [Disc 2],22.0,Led Zeppelin
+135,System Of A Down,207.0,Mezmerize
+136,Presence,22.0,Led Zeppelin
+136,"Terry Bozzio, Tony Levin & Steve Stevens",208.0,[1997] Black Light Syndrome
+137,The Black Crowes,209.0,Live [Disc 1]
+137,The Black Crowes,210.0,Live [Disc 2]
+137,The Song Remains The Same (Disc 1),22.0,Led Zeppelin
+138,The Clash,211.0,The Singles
+138,The Song Remains The Same (Disc 2),22.0,Led Zeppelin
+139,A TempestadeTempestade Ou O Livro Dos Dias,99.0,Legião Urbana
+139,The Cult,212.0,Beyond Good And Evil
+139,The Cult,213.0,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]"
+140,Mais Do Mesmo,99.0,Legião Urbana
+140,The Doors,214.0,The Doors
+141,Greatest Hits,100.0,Lenny Kravitz
+141,The Police,215.0,The Police Greatest Hits
+142,Lulu Santos - RCA 100 Anos De Música - Álbum 01,101.0,Lulu Santos
+142,The Rolling Stones,216.0,"Hot Rocks, 1964-1971 (Disc 1)"
+142,The Rolling Stones,217.0,No Security
+142,The Rolling Stones,218.0,Voodoo Lounge
+143,Lulu Santos - RCA 100 Anos De Música - Álbum 02,101.0,Lulu Santos
+143,The Tea Party,219.0,Tangents
+143,The Tea Party,220.0,Transmission
+144,Misplaced Childhood,102.0,Marillion
+144,The Who,221.0,My Generation - The Very Best Of The Who
+145,Barulhinho Bom,103.0,Marisa Monte
+145,Tim Maia,222.0,Serie Sem Limite (Disc 1)
+145,Tim Maia,223.0,Serie Sem Limite (Disc 2)
+146,Seek And Shall Find: More Of The Best (1963-1981),104.0,Marvin Gaye
+146,Titãs,224.0,Acústico
+146,Titãs,225.0,Volume Dois
+147,Battlestar Galactica,226.0,Battlestar Galactica: The Story So Far
+147,Battlestar Galactica,227.0,"Battlestar Galactica, Season 3"
+147,The Best Of Men At Work,105.0,Men At Work
+148,Black Album,50.0,Metallica
+148,Heroes,228.0,"Heroes, Season 1"
+149,Garage Inc. (Disc 2),50.0,Metallica
+149,Lost,229.0,"Lost, Season 3"
+149,Lost,230.0,"Lost, Season 1"
+149,Lost,231.0,"Lost, Season 2"
+149,Lost,261.0,"LOST, Season 4"
+150,Kill 'Em All,50.0,Metallica
+150,U2,232.0,Achtung Baby
+150,U2,233.0,All That You Can't Leave Behind
+150,U2,234.0,B-Sides 1980-1990
+150,U2,235.0,How To Dismantle An Atomic Bomb
+150,U2,236.0,Pop
+150,U2,237.0,Rattle And Hum
+150,U2,238.0,The Best Of 1980-1990
+150,U2,239.0,War
+150,U2,240.0,Zooropa
+150,U2,255.0,Instant Karma: The Amnesty International Campaign to Save Darfur
+151,Load,50.0,Metallica
+151,UB40,241.0,UB40 The Best Of - Volume Two [UK]
+152,Master Of Puppets,50.0,Metallica
+152,Van Halen,242.0,Diver Down
+152,Van Halen,243.0,"The Best Of Van Halen, Vol. I"
+152,Van Halen,244.0,Van Halen
+152,Van Halen,245.0,Van Halen III
+153,ReLoad,50.0,Metallica
+153,Velvet Revolver,246.0,Contraband
+154,Ride The Lightning,50.0,Metallica
+154,Whitesnake,,
+155,St. Anger,50.0,Metallica
+155,Zeca Pagodinho,248.0,Ao Vivo [IMPORT]
+156,...And Justice For All,50.0,Metallica
+156,The Office,249.0,"The Office, Season 1"
+156,The Office,250.0,"The Office, Season 2"
+156,The Office,251.0,"The Office, Season 3"
+157,Dread Zeppelin,252.0,Un-Led-Ed
+157,Miles Ahead,68.0,Miles Davis
+158,Battlestar Galactica (Classic),253.0,"Battlestar Galactica (Classic), Season 1"
+158,Milton Nascimento Ao Vivo,42.0,Milton Nascimento
+159,Aquaman,254.0,Aquaman
+159,Minas,42.0,Milton Nascimento
+160,Ace Of Spades,106.0,Motörhead
+160,Christina Aguilera featuring BigElf,,
+161,Aerosmith & Sierra Leone's Refugee Allstars,,
+161,Demorou...,108.0,Mônica Marianno
+162,Los Lonely Boys,,
+162,Motley Crue Greatest Hits,109.0,Mötley Crüe
+163,Corinne Bailey Rae,,
+163,From The Muddy Banks Of The Wishkah [Live],110.0,Nirvana
+164,Dhani Harrison & Jakob Dylan,,
+164,Nevermind,110.0,Nirvana
+165,Compositores,111.0,O Terço
+165,Jackson Browne,,
+166,Avril Lavigne,,
+166,Olodum,112.0,Olodum
+167,Acústico MTV,113.0,Os Paralamas Do Sucesso
+167,Big & Rich,,
+168,Arquivo II,113.0,Os Paralamas Do Sucesso
+168,Youssou N'Dour,,
+169,Arquivo Os Paralamas Do Sucesso,113.0,Os Paralamas Do Sucesso
+169,Black Eyed Peas,,
+170,Bark at the Moon (Remastered),114.0,Ozzy Osbourne
+170,Jack Johnson,,
+171,Ben Harper,,
+171,Blizzard of Ozz,114.0,Ozzy Osbourne
+172,Diary of a Madman (Remastered),114.0,Ozzy Osbourne
+172,Snow Patrol,,
+173,Matisyahu,,
+173,No More Tears (Remastered),114.0,Ozzy Osbourne
+174,The Postal Service,,
+174,Tribute,114.0,Ozzy Osbourne
+175,Jaguares,,
+175,Walking Into Clarksdale,115.0,Page & Plant
+176,Original Soundtracks 1,116.0,Passengers
+176,The Flaming Lips,,
+177,Jack's Mannequin & Mick Fleetwood,,
+177,The Beast Live,117.0,Paul D'Ianno
+178,Live On Two Legs [Live],118.0,Pearl Jam
+178,Regina Spektor,,
+179,Pearl Jam,118.0,Pearl Jam
+179,Scorpions,257.0,20th Century Masters - The Millennium Collection: The Best of Scorpions
+180,House Of Pain,258.0,House of Pain
+180,Riot Act,118.0,Pearl Jam
+181,Ten,118.0,Pearl Jam
+181,Xis,,
+182,Nega Gizza,,
+182,Vs.,118.0,Pearl Jam
+183,Dark Side Of The Moon,120.0,Pink Floyd
+183,Gustavo & Andres Veiga & Salazar,,
+184,Os Cães Ladram Mas A Caravana Não Pára,121.0,Planet Hemp
+184,Rodox,,
+185,Charlie Brown Jr.,,
+185,Greatest Hits I,51.0,Queen
+186,News Of The World,51.0,Queen
+186,Pedro Luís E A Parede,,
+187,Los Hermanos,,
+187,Out Of Time,122.0,R.E.M. Feat. Kate Pearson
+188,Green,124.0,R.E.M.
+188,Mundo Livre S/A,,
+189,New Adventures In Hi-Fi,124.0,R.E.M.
+189,Otto,,
+190,Instituto,,
+190,The Best Of R.E.M.: The IRS Years,124.0,R.E.M.
+191,Cesta Básica,125.0,Raimundos
+191,Nação Zumbi,,
+192,DJ Dolores & Orchestra Santa Massa,,
+192,Raul Seixas,126.0,Raul Seixas
+193,Blood Sugar Sex Magik,127.0,Red Hot Chili Peppers
+193,Seu Jorge,,
+194,By The Way,127.0,Red Hot Chili Peppers
+194,Sabotage E Instituto,,
+195,Californication,127.0,Red Hot Chili Peppers
+195,Stereo Maracana,,
+196,Cake,260.0,Cake: B-Sides and Rarities
+196,Retrospective I (1974-1980),128.0,Rush
+197,Aisha Duo,262.0,Quiet Songs
+197,Santana - As Years Go By,59.0,Santana
+198,Habib Koité and Bamada,263.0,Muso Ko
+198,Santana Live,59.0,Santana
+199,Karsh Kale,264.0,Realize
+199,Maquinarama,130.0,Skank
+200,O Samba Poconé,130.0,Skank
+200,The Posies,265.0,Every Kind of Light
+201,Judas 0: B-Sides and Rarities,131.0,Smashing Pumpkins
+201,Luciana Souza/Romero Lubambo,266.0,Duos II
+202,Aaron Goldberg,267.0,Worlds
+202,Rotten Apples: Greatest Hits,131.0,Smashing Pumpkins
+203,A-Sides,132.0,Soundgarden
+203,Nicolaus Esterhazy Sinfonia,268.0,The Best of Beethoven
+204,Morning Dance,53.0,Spyro Gyra
+204,Temple of the Dog,269.0,Temple of the Dog
+205,Chris Cornell,270.0,Carry On
+205,In Step,133.0,Stevie Ray Vaughan & Double Trouble
+206,Alberto Turco & Nova Schola Gregoriana,272.0,Adorate Deum: Gregorian Chant from the Proper of the Mass
+206,Core,134.0,Stone Temple Pilots
+207,Mezmerize,135.0,System Of A Down
+207,"Richard Marlow & The Choir of Trinity College, Cambridge",273.0,Allegri: Miserere
+208,English Concert & Trevor Pinnock,274.0,Pachelbel: Canon & Gigue
+208,English Concert & Trevor Pinnock,315.0,Handel: Music for the Royal Fireworks (Original Version 1749)
+208,[1997] Black Light Syndrome,136.0,"Terry Bozzio, Tony Levin & Steve Stevens"
+209,"Anne-Sophie Mutter, Herbert Von Karajan & Wiener Philharmoniker",275.0,Vivaldi: The Four Seasons
+209,Live [Disc 1],137.0,The Black Crowes
+210,"Hilary Hahn, Jeffrey Kahane, Los Angeles Chamber Orchestra & Margaret Batjer",276.0,Bach: Violin Concertos
+210,Live [Disc 2],137.0,The Black Crowes
+211,The Singles,138.0,The Clash
+211,Wilhelm Kempff,277.0,Bach: Goldberg Variations
+212,Beyond Good And Evil,139.0,The Cult
+212,Yo-Yo Ma,278.0,Bach: The Cello Suites
+213,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",139.0,The Cult
+213,Scholars Baroque Ensemble,279.0,Handel: The Messiah (Highlights)
+214,Academy of St. Martin in the Fields & Sir Neville Marriner,280.0,The World of Classical Favourites
+214,The Doors,140.0,The Doors
+215,Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner,281.0,Sir Neville Marriner: A Celebration
+215,The Police Greatest Hits,141.0,The Police
+216,"Berliner Philharmoniker, Claudio Abbado & Sabine Meyer",282.0,Mozart: Wind Concertos
+216,"Hot Rocks, 1964-1971 (Disc 1)",142.0,The Rolling Stones
+217,No Security,142.0,The Rolling Stones
+217,Royal Philharmonic Orchestra & Sir Thomas Beecham,283.0,Haydn: Symphonies 99 - 104
+218,Orchestre Révolutionnaire et Romantique & John Eliot Gardiner,284.0,Beethoven: Symhonies Nos. 5 & 6
+218,Voodoo Lounge,142.0,The Rolling Stones
+219,"Britten Sinfonia, Ivor Bolton & Lesley Garrett",285.0,A Soprano Inspired
+219,Tangents,143.0,The Tea Party
+220,"Chicago Symphony Chorus, Chicago Symphony Orchestra & Sir Georg Solti",286.0,Great Opera Choruses
+220,Transmission,143.0,The Tea Party
+221,My Generation - The Very Best Of The Who,144.0,The Who
+221,Sir Georg Solti & Wiener Philharmoniker,287.0,Wagner: Favourite Overtures
+222,"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair",288.0,"Fauré: Requiem, Ravel: Pavane & Others"
+222,Serie Sem Limite (Disc 1),145.0,Tim Maia
+223,London Symphony Orchestra & Sir Charles Mackerras,289.0,Tchaikovsky: The Nutcracker
+223,Serie Sem Limite (Disc 2),145.0,Tim Maia
+224,Acústico,146.0,Titãs
+224,Barry Wordsworth & BBC Concert Orchestra,290.0,The Last Night of the Proms
+225,"Herbert Von Karajan, Mirella Freni & Wiener Philharmoniker",291.0,Puccini: Madama Butterfly - Highlights
+225,Volume Dois,146.0,Titãs
+226,Battlestar Galactica: The Story So Far,147.0,Battlestar Galactica
+226,Eugene Ormandy,292.0,"Holst: The Planets, Op. 32 & Vaughan Williams: Fantasies"
+226,Eugene Ormandy,311.0,Strauss: Waltzes
+226,Eugene Ormandy,343.0,Respighi:Pines of Rome
+227,"Battlestar Galactica, Season 3",147.0,Battlestar Galactica
+227,Luciano Pavarotti,293.0,Pavarotti's Opera Made Easy
+228,"Heroes, Season 1",148.0,Heroes
+228,Leonard Bernstein & New York Philharmonic,294.0,Great Performances - Barber's Adagio and Other Romantic Favorites for Strings
+229,Boston Symphony Orchestra & Seiji Ozawa,295.0,Carmina Burana
+229,"Lost, Season 3",149.0,Lost
+230,Aaron Copland & London Symphony Orchestra,296.0,"A Copland Celebration, Vol. I"
+230,"Lost, Season 1",149.0,Lost
+231,"Lost, Season 2",149.0,Lost
+231,Ton Koopman,297.0,Bach: Toccata & Fugue in D Minor
+232,Achtung Baby,150.0,U2
+232,Sergei Prokofiev & Yuri Temirkanov,298.0,Prokofiev: Symphony No.1
+233,All That You Can't Leave Behind,150.0,U2
+233,Chicago Symphony Orchestra & Fritz Reiner,299.0,Scheherazade
+234,B-Sides 1980-1990,150.0,U2
+234,Orchestra of The Age of Enlightenment,300.0,Bach: The Brandenburg Concertos
+235,"Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra",301.0,Chopin: Piano Concertos Nos. 1 & 2
+235,How To Dismantle An Atomic Bomb,150.0,U2
+236,James Levine,302.0,Mascagni: Cavalleria Rusticana
+236,Pop,150.0,U2
+237,Berliner Philharmoniker & Hans Rosbaud,303.0,Sibelius: Finlandia
+237,Rattle And Hum,150.0,U2
+238,Maurizio Pollini,304.0,Beethoven Piano Sonatas: Moonlight & Pastorale
+238,The Best Of 1980-1990,150.0,U2
+239,"Academy of St. Martin in the Fields, Sir Neville Marriner & William Bennett",,
+239,War,150.0,U2
+240,Gustav Mahler,305.0,Great Recordings of the Century - Mahler: Das Lied von der Erde
+240,Zooropa,150.0,U2
+241,"Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos",306.0,Elgar: Cello Concerto & Vaughan Williams: Fantasias
+241,UB40 The Best Of - Volume Two [UK],151.0,UB40
+242,Diver Down,152.0,Van Halen
+242,Edo de Waart & San Francisco Symphony,307.0,"Adams, John: The Chairman Dances"
+243,Antal Doráti & London Symphony Orchestra,308.0,"Tchaikovsky: 1812 Festival Overture, Op.49, Capriccio Italien & Beethoven: Wellington's Victory"
+243,"The Best Of Van Halen, Vol. I",152.0,Van Halen
+244,Choir Of Westminster Abbey & Simon Preston,309.0,Palestrina: Missa Papae Marcelli & Allegri: Miserere
+244,Van Halen,152.0,Van Halen
+245,Michael Tilson Thomas & San Francisco Symphony,310.0,Prokofiev: Romeo & Juliet
+245,Michael Tilson Thomas & San Francisco Symphony,312.0,Berlioz: Symphonie Fantastique
+245,Van Halen III,152.0,Van Halen
+246,"Chor der Wiener Staatsoper, Herbert Von Karajan & Wiener Philharmoniker",313.0,Bizet: Carmen Highlights
+246,Contraband,153.0,Velvet Revolver
+247,The King's Singers,314.0,English Renaissance
+247,Vinicius De Moraes,72.0,Vinícius De Moraes
+248,Ao Vivo [IMPORT],155.0,Zeca Pagodinho
+248,Berliner Philharmoniker & Herbert Von Karajan,316.0,Grieg: Peer Gynt Suites & Sibelius: Pelléas et Mélisande
+248,Berliner Philharmoniker & Herbert Von Karajan,320.0,Mozart: Symphonies Nos. 40 & 41
+248,Berliner Philharmoniker & Herbert Von Karajan,336.0,Prokofiev: Symphony No.5 & Stravinksy: Le Sacre Du Printemps
+249,"Sir Georg Solti, Sumi Jo & Wiener Philharmoniker",317.0,Mozart Gala: Famous Arias
+249,"The Office, Season 1",156.0,The Office
+250,Christopher O'Riley,318.0,SCRIABIN: Vers la flamme
+250,"The Office, Season 2",156.0,The Office
+251,Fretwork,319.0,Armada: Music from the Courts of England and Spain
+251,"The Office, Season 3",156.0,The Office
+252,Amy Winehouse,321.0,Back to Black
+252,Amy Winehouse,322.0,Frank
+252,Un-Led-Ed,157.0,Dread Zeppelin
+253,"Battlestar Galactica (Classic), Season 1",158.0,Battlestar Galactica (Classic)
+253,Calexico,323.0,Carried to Dust (Bonus Track Version)
+254,Aquaman,159.0,Aquaman
+254,Otto Klemperer & Philharmonia Orchestra,324.0,Beethoven: Symphony No. 6 'Pastoral' Etc.
+255,Instant Karma: The Amnesty International Campaign to Save Darfur,150.0,U2
+255,Yehudi Menuhin,325.0,Bartok: Violin & Viola Concertos
+256,Philharmonia Orchestra & Sir Neville Marriner,326.0,Mendelssohn: A Midsummer Night's Dream
+256,Speak of the Devil,114.0,Ozzy Osbourne
+257,20th Century Masters - The Millennium Collection: The Best of Scorpions,179.0,Scorpions
+257,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",327.0,Bach: Orchestral Suites Nos. 1 - 4
+258,House of Pain,180.0,House Of Pain
+258,Les Arts Florissants & William Christie,328.0,"Charpentier: Divertissements, Airs & Concerts"
+259,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,36.0,O Rappa
+259,The 12 Cellists of The Berlin Philharmonic,329.0,South American Getaway
+260,Adrian Leaper & Doreen de Feis,330.0,Górecki: Symphony No. 3
+260,Cake: B-Sides and Rarities,196.0,Cake
+261,"LOST, Season 4",149.0,Lost
+261,"Roger Norrington, London Classical Players",331.0,Purcell: The Fairy Queen
+262,Charles Dutoit & L'Orchestre Symphonique de Montréal,332.0,The Ultimate Relexation Album
+262,Quiet Songs,197.0,Aisha Duo
+263,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",333.0,Purcell: Music for the Queen Mary
+263,Muso Ko,198.0,Habib Koité and Bamada
+264,Kent Nagano and Orchestre de l'Opéra de Lyon,334.0,Weill: The Seven Deadly Sins
+264,Realize,199.0,Karsh Kale
+265,Every Kind of Light,200.0,The Posies
+265,Julian Bream,335.0,"J.S. Bach: Chaconne, Suite in E Minor, Partita in E Major & Prelude, Fugue and Allegro"
+266,Duos II,201.0,Luciana Souza/Romero Lubambo
+266,Martin Roscoe,337.0,"Szymanowski: Piano Works, Vol. 1"
+267,Göteborgs Symfoniker & Neeme Järvi,338.0,Nielsen: The Six Symphonies
+267,Worlds,202.0,Aaron Goldberg
+268,Itzhak Perlman,339.0,Great Recordings of the Century: Paganini's 24 Caprices
+268,The Best of Beethoven,203.0,Nicolaus Esterhazy Sinfonia
+269,Michele Campanella,340.0,Liszt - 12 Études D'Execution Transcendante
+269,Temple of the Dog,204.0,Temple of the Dog
+270,Carry On,205.0,Chris Cornell
+270,Gerald Moore,341.0,"Great Recordings of the Century - Shubert: Schwanengesang, 4 Lieder"
+271,"Mela Tenenbaum, Pro Musica Prague & Richard Kapp",342.0,"Locatelli: Concertos for Violin, Strings and Continuo, Vol. 3"
+271,Revelations,8.0,Audioslave
+272,Adorate Deum: Gregorian Chant from the Proper of the Mass,206.0,Alberto Turco & Nova Schola Gregoriana
+272,Emerson String Quartet,344.0,Schubert: The Late String Quartets & String Quintet (3 CD's)
+273,Allegri: Miserere,207.0,"Richard Marlow & The Choir of Trinity College, Cambridge"
+273,"C. Monteverdi, Nigel Rogers - Chiaroscuro; London Baroque; London Cornett & Sackbu",345.0,Monteverdi: L'Orfeo
+274,Nash Ensemble,346.0,Mozart: Chamber Music
+274,Pachelbel: Canon & Gigue,208.0,English Concert & Trevor Pinnock
+275,Philip Glass Ensemble,347.0,Koyaanisqatsi (Soundtrack from the Motion Picture)
+275,Vivaldi: The Four Seasons,209.0,"Anne-Sophie Mutter, Herbert Von Karajan & Wiener Philharmoniker"
+276,Bach: Violin Concertos,210.0,"Hilary Hahn, Jeffrey Kahane, Los Angeles Chamber Orchestra & Margaret Batjer"
+276,Kiyo,348.0,Okay Lang Yan
+276,Kiyo,349.0,Eba
+276,Kiyo,350.0,Nandito Na
+276,Kiyo,351.0,Dantay
+276,Kiyo,352.0,Ikaw Lang
+277,Bach: Goldberg Variations,211.0,Wilhelm Kempff
+278,Bach: The Cello Suites,212.0,Yo-Yo Ma
+279,Handel: The Messiah (Highlights),213.0,Scholars Baroque Ensemble
+280,The World of Classical Favourites,214.0,Academy of St. Martin in the Fields & Sir Neville Marriner
+281,Sir Neville Marriner: A Celebration,215.0,Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner
+282,Mozart: Wind Concertos,216.0,"Berliner Philharmoniker, Claudio Abbado & Sabine Meyer"
+283,Haydn: Symphonies 99 - 104,217.0,Royal Philharmonic Orchestra & Sir Thomas Beecham
+284,Beethoven: Symhonies Nos. 5 & 6,218.0,Orchestre Révolutionnaire et Romantique & John Eliot Gardiner
+285,A Soprano Inspired,219.0,"Britten Sinfonia, Ivor Bolton & Lesley Garrett"
+286,Great Opera Choruses,220.0,"Chicago Symphony Chorus, Chicago Symphony Orchestra & Sir Georg Solti"
+287,Wagner: Favourite Overtures,221.0,Sir Georg Solti & Wiener Philharmoniker
+288,"Fauré: Requiem, Ravel: Pavane & Others",222.0,"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair"
+289,Tchaikovsky: The Nutcracker,223.0,London Symphony Orchestra & Sir Charles Mackerras
+290,The Last Night of the Proms,224.0,Barry Wordsworth & BBC Concert Orchestra
+291,Puccini: Madama Butterfly - Highlights,225.0,"Herbert Von Karajan, Mirella Freni & Wiener Philharmoniker"
+292,"Holst: The Planets, Op. 32 & Vaughan Williams: Fantasies",226.0,Eugene Ormandy
+293,Pavarotti's Opera Made Easy,227.0,Luciano Pavarotti
+294,Great Performances - Barber's Adagio and Other Romantic Favorites for Strings,228.0,Leonard Bernstein & New York Philharmonic
+295,Carmina Burana,229.0,Boston Symphony Orchestra & Seiji Ozawa
+296,"A Copland Celebration, Vol. I",230.0,Aaron Copland & London Symphony Orchestra
+297,Bach: Toccata & Fugue in D Minor,231.0,Ton Koopman
+298,Prokofiev: Symphony No.1,232.0,Sergei Prokofiev & Yuri Temirkanov
+299,Scheherazade,233.0,Chicago Symphony Orchestra & Fritz Reiner
+300,Bach: The Brandenburg Concertos,234.0,Orchestra of The Age of Enlightenment
+301,Chopin: Piano Concertos Nos. 1 & 2,235.0,"Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra"
+302,Mascagni: Cavalleria Rusticana,236.0,James Levine
+303,Sibelius: Finlandia,237.0,Berliner Philharmoniker & Hans Rosbaud
+304,Beethoven Piano Sonatas: Moonlight & Pastorale,238.0,Maurizio Pollini
+305,Great Recordings of the Century - Mahler: Das Lied von der Erde,240.0,Gustav Mahler
+306,Elgar: Cello Concerto & Vaughan Williams: Fantasias,241.0,"Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos"
+307,"Adams, John: The Chairman Dances",242.0,Edo de Waart & San Francisco Symphony
+308,"Tchaikovsky: 1812 Festival Overture, Op.49, Capriccio Italien & Beethoven: Wellington's Victory",243.0,Antal Doráti & London Symphony Orchestra
+309,Palestrina: Missa Papae Marcelli & Allegri: Miserere,244.0,Choir Of Westminster Abbey & Simon Preston
+310,Prokofiev: Romeo & Juliet,245.0,Michael Tilson Thomas & San Francisco Symphony
+311,Strauss: Waltzes,226.0,Eugene Ormandy
+312,Berlioz: Symphonie Fantastique,245.0,Michael Tilson Thomas & San Francisco Symphony
+313,Bizet: Carmen Highlights,246.0,"Chor der Wiener Staatsoper, Herbert Von Karajan & Wiener Philharmoniker"
+314,English Renaissance,247.0,The King's Singers
+315,Handel: Music for the Royal Fireworks (Original Version 1749),208.0,English Concert & Trevor Pinnock
+316,Grieg: Peer Gynt Suites & Sibelius: Pelléas et Mélisande,248.0,Berliner Philharmoniker & Herbert Von Karajan
+317,Mozart Gala: Famous Arias,249.0,"Sir Georg Solti, Sumi Jo & Wiener Philharmoniker"
+318,SCRIABIN: Vers la flamme,250.0,Christopher O'Riley
+319,Armada: Music from the Courts of England and Spain,251.0,Fretwork
+320,Mozart: Symphonies Nos. 40 & 41,248.0,Berliner Philharmoniker & Herbert Von Karajan
+321,Back to Black,252.0,Amy Winehouse
+322,Frank,252.0,Amy Winehouse
+323,Carried to Dust (Bonus Track Version),253.0,Calexico
+324,Beethoven: Symphony No. 6 'Pastoral' Etc.,254.0,Otto Klemperer & Philharmonia Orchestra
+325,Bartok: Violin & Viola Concertos,255.0,Yehudi Menuhin
+326,Mendelssohn: A Midsummer Night's Dream,256.0,Philharmonia Orchestra & Sir Neville Marriner
+327,Bach: Orchestral Suites Nos. 1 - 4,257.0,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart"
+328,"Charpentier: Divertissements, Airs & Concerts",258.0,Les Arts Florissants & William Christie
+329,South American Getaway,259.0,The 12 Cellists of The Berlin Philharmonic
+330,Górecki: Symphony No. 3,260.0,Adrian Leaper & Doreen de Feis
+331,Purcell: The Fairy Queen,261.0,"Roger Norrington, London Classical Players"
+332,The Ultimate Relexation Album,262.0,Charles Dutoit & L'Orchestre Symphonique de Montréal
+333,Purcell: Music for the Queen Mary,263.0,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir"
+334,Weill: The Seven Deadly Sins,264.0,Kent Nagano and Orchestre de l'Opéra de Lyon
+335,"J.S. Bach: Chaconne, Suite in E Minor, Partita in E Major & Prelude, Fugue and Allegro",265.0,Julian Bream
+336,Prokofiev: Symphony No.5 & Stravinksy: Le Sacre Du Printemps,248.0,Berliner Philharmoniker & Herbert Von Karajan
+337,"Szymanowski: Piano Works, Vol. 1",266.0,Martin Roscoe
+338,Nielsen: The Six Symphonies,267.0,Göteborgs Symfoniker & Neeme Järvi
+339,Great Recordings of the Century: Paganini's 24 Caprices,268.0,Itzhak Perlman
+340,Liszt - 12 Études D'Execution Transcendante,269.0,Michele Campanella
+341,"Great Recordings of the Century - Shubert: Schwanengesang, 4 Lieder",270.0,Gerald Moore
+342,"Locatelli: Concertos for Violin, Strings and Continuo, Vol. 3",271.0,"Mela Tenenbaum, Pro Musica Prague & Richard Kapp"
+343,Respighi:Pines of Rome,226.0,Eugene Ormandy
+344,Schubert: The Late String Quartets & String Quintet (3 CD's),272.0,Emerson String Quartet
+345,Monteverdi: L'Orfeo,273.0,"C. Monteverdi, Nigel Rogers - Chiaroscuro; London Baroque; London Cornett & Sackbu"
+346,Mozart: Chamber Music,274.0,Nash Ensemble
+347,Koyaanisqatsi (Soundtrack from the Motion Picture),275.0,Philip Glass Ensemble
+348,Okay Lang Yan,276.0,Kiyo
+349,Eba,276.0,Kiyo
+350,Nandito Na,276.0,Kiyo
+351,Dantay,276.0,Kiyo
+352,Ikaw Lang,276.0,Kiyo

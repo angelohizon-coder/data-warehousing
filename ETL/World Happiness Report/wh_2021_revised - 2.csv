@@ -1,0 +1,43 @@
+Country_name,Regional_indicator,year,Log_GDP_per_capita,Social_support,Healthy_life_expectancy,Freedom_to_make_life_choices,Perceptions_of_corruption,Ladder_score
+Greece,Western Europe,2021,10.279,0.823,72.6,0.582,0.823,5.723
+Guatemala,Latin America and Caribbean,2021,9.053,0.813,64.958,0.906,0.775,6.435
+Guinea,Sub-Saharan Africa,2021,7.838,0.639,55.008,0.697,0.766,4.984
+Honduras,Latin America and Caribbean,2021,8.648,0.812,67.3,0.857,0.809,5.919
+Hungary,Central and Eastern Europe,2021,10.358,0.943,68,0.755,0.876,5.992
+India,South Asia,2021,8.755,0.603,60.633,0.893,0.774,3.819
+Indonesia,Southeast Asia,2021,9.365,0.811,62.236,0.873,0.867,5.345
+Ireland,Western Europe,2021,11.342,0.947,72.4,0.879,0.363,7.085
+Israel,Middle East and North Africa,2021,10.575,0.939,73.503,0.8,0.753,7.157
+Italy,Western Europe,2021,10.623,0.88,73.8,0.693,0.866,6.483
+Ivory Coast,Sub-Saharan Africa,2021,8.551,0.644,50.114,0.741,0.794,5.306
+Jamaica,Latin America and Caribbean,2021,9.186,0.877,67.5,0.89,0.884,6.309
+Japan,East Asia,2021,10.611,0.884,75.1,0.796,0.638,5.94
+Kazakhstan,Commonwealth of Independent States,2021,10.155,0.952,65.2,0.853,0.733,6.152
+Kenya,Sub-Saharan Africa,2021,8.361,0.688,60.704,0.779,0.825,4.607
+Kyrgyzstan,Commonwealth of Independent States,2021,8.538,0.893,64.401,0.935,0.908,5.744
+Laos,Southeast Asia,2021,8.947,0.728,58.968,0.91,0.658,5.03
+Latvia,Central and Eastern Europe,2021,10.315,0.927,67.1,0.715,0.8,6.032
+Lebanon,Middle East and North Africa,2021,9.626,0.848,67.355,0.525,0.898,4.584
+Lesotho,Sub-Saharan Africa,2021,7.926,0.787,48.7,0.715,0.915,3.512
+Liberia,Sub-Saharan Africa,2021,7.288,0.72,56.498,0.735,0.85,4.625
+Libya,Middle East and North Africa,2021,9.622,0.827,62.3,0.771,0.667,5.41
+Lithuania,Central and Eastern Europe,2021,10.499,0.935,67.906,0.773,0.826,6.255
+Luxembourg,Western Europe,2021,11.647,0.908,72.6,0.907,0.386,7.324
+Madagascar,Sub-Saharan Africa,2021,7.396,0.686,59.305,0.552,0.803,4.208
+Malawi,Sub-Saharan Africa,2021,6.958,0.537,57.948,0.78,0.729,3.6
+Malaysia,Southeast Asia,2021,10.238,0.817,67.102,0.895,0.839,5.384
+Mali,Sub-Saharan Africa,2021,7.744,0.724,51.969,0.697,0.827,4.723
+Malta,Western Europe,2021,10.674,0.931,72.2,0.927,0.653,6.602
+Mauritania,Sub-Saharan Africa,2021,8.542,0.795,57.161,0.561,0.731,4.227
+Mauritius,Sub-Saharan Africa,2021,10.008,0.905,66.701,0.867,0.789,6.049
+Mexico,Latin America and Caribbean,2021,9.859,0.831,68.597,0.862,0.799,6.317
+Moldova,Commonwealth of Independent States,2021,9.454,0.857,65.699,0.822,0.918,5.766
+Mongolia,East Asia,2021,9.4,0.935,62.5,0.708,0.856,5.677
+Montenegro,Central and Eastern Europe,2021,9.94,0.858,68.699,0.708,0.812,5.581
+Morocco,Middle East and North Africa,2021,8.903,0.56,66.208,0.774,0.801,4.918
+Mozambique,Sub-Saharan Africa,2021,7.158,0.744,54.706,0.882,0.684,4.794
+Myanmar,Southeast Asia,2021,8.541,0.779,59.302,0.876,0.66,4.426
+Namibia,Sub-Saharan Africa,2021,9.161,0.818,56.799,0.719,0.847,4.574
+Nepal,South Asia,2021,8.12,0.774,64.233,0.782,0.727,5.269
+Netherlands,Western Europe,2021,10.932,0.942,72.4,0.913,0.338,7.464
+New Zealand,North America and ANZ,2021,10.643,0.948,73.4,0.929,0.242,7.277
